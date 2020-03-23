@@ -1,3 +1,30 @@
-.link {
+.header {
+    padding: 1rem 0 3rem;
+}
+
+.navItem {
     color: grey;
+    font-size: 0.9rem;
+    margin-right: 1.3rem;
+    text-decoration: none;
+}
+
+.navItem:hover {
+    color: #666666;
+}
+
+.activateNavItem {
+    color: #333333;
+}
+
+.title {
+    color: black;
+    font-size: 3rem;
+    text-decoration: none;
+}
+
+.navlist {
+    display: flex;
+    list-style-type: none;
+    margin: 0;
 }

@@ -4,20 +4,25 @@ import headerStyle from './header.module.scss'
 
 const Header = () => {
     return (
-        <header>
+        <header className={headerStyle.header}>
+            <h1>
+                <Link className={headerStyle.title} to="/">
+                    Dasz wiarę blog
+                </Link>
+            </h1>
             <nav>
-                <ul>
+                <ul className={headerStyle.navlist}>
                     <li>
-                        <Link className={headerStyle.link} to="/">Main site</Link>
+                        <Link className={headerStyle.navItem} activeClassName={headerStyle.activateNavItem} to="/">Main site</Link>
                     </li>
                     <li>
-                        <Link to="/blog">Blog</Link>
+                        <Link className={headerStyle.navItem} activeClassName={headerStyle.activateNavItem} to="/blog">Blog</Link>
                     </li>
                     <li>
-                        <Link to="/contact">Contact</Link>
+                        <Link className={headerStyle.navItem} activeClassName={headerStyle.activateNavItem} to="/contact">Contact</Link>
                     </li>
                     <li>
-                        <Link to="/about">About</Link>
+                        <Link className={headerStyle.navItem} activeClassName={headerStyle.activateNavItem} to="/about">About</Link>
                     </li>
                 </ul>
             </nav>
