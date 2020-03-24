@@ -1,6 +1,6 @@
 ---
-title: "Dasz wiarę? Odcinek 2"
-subtitle: "Polska myśl teologiczna, czyli mariawityzm"
+title: "Dasz wiarę? Odcinek 2."
+subtitle: "Polska myśl teologiczna, czyli mariawityzm."
 date: "2016-05-11"
 original: "https://www.wykop.pl/wpis/17682483/dasz-wiare-odc-2-polska-mysl-teologiczna-czyli-mar/"
 author: "Luvencedus"

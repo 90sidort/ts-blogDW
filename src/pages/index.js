@@ -5,10 +5,11 @@ import Layout from '../components/layout'
 const indexPage = () => {
     return (
             <Layout>
-                <h1>Hello.</h1>
-                <h2>Welcome to Dasz Wiarę blog</h2>
-                <p>Wanna get in touch? Check <Link to='/contact'>contact</Link> options.</p>
-                <p>Ąęśąć</p>
+                <h1>Cześć!</h1>
+                <p>Ta strona jest poświęcona serii "Dasz Wiarę", pierwotnie publikowanej na <Link class="linkUnderscore" to='/contact'>Wykopie</Link>.</p>
+                <p>Co to za seria i o czym jest ten blog? Sprawdź zakładkę <Link class="linkUnderscore" to='/blog'>O serii</Link>.</p>
+                <p>Wpisy są dostępne w zakładce <Link class="linkUnderscore" to='/blog'>Blog</Link>.</p>
+                <p>Znalazłeś błędy lub chcesz się skontaktować? Zobacz zakładkę <Link class="linkUnderscore" to='/contact'>Kontakt</Link>.</p>
             </Layout>
     )
 }

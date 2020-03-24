@@ -22,16 +22,16 @@ const Header = () => {
             <nav>
                 <ul className={headerStyle.navlist}>
                     <li>
-                        <Link className={headerStyle.navItem} activeClassName={headerStyle.activateNavItem} to="/">Main site</Link>
+                        <Link className={headerStyle.navItem} activeClassName={headerStyle.activateNavItem} to="/">Strona główna</Link>
+                    </li>
+                    <li>
+                        <Link className={headerStyle.navItem} activeClassName={headerStyle.activateNavItem} to="/about">O serii</Link>
                     </li>
                     <li>
                         <Link className={headerStyle.navItem} activeClassName={headerStyle.activateNavItem} to="/blog">Blog</Link>
                     </li>
                     <li>
-                        <Link className={headerStyle.navItem} activeClassName={headerStyle.activateNavItem} to="/contact">Contact</Link>
-                    </li>
-                    <li>
-                        <Link className={headerStyle.navItem} activeClassName={headerStyle.activateNavItem} to="/about">About</Link>
+                        <Link className={headerStyle.navItem} activeClassName={headerStyle.activateNavItem} to="/contact">Kontakt</Link>
                     </li>
                 </ul>
             </nav>

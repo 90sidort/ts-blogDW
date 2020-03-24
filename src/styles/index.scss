@@ -620,10 +620,25 @@ html {
 figcaption {
   text-align: center;
 }
-// .gatsby-resp-image-image {
-//   width: 600px !important;
-//   height: 330px !important;
-// }
+
+.linkUnderscore {
+  text-decoration: none;
+  color: black;
+}
+
+.indented_paragraph {
+  text-indent: 1.0rem;
+}
+
+.authorList {
+  list-style-type: none;
+}
+
+.authorAvatar {
+  border-radius: 50%;
+  width: 75px;
+  height: 75px;
+}
 
   @media only screen and (max-width: 480px) {
     html {
