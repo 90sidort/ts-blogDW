@@ -642,10 +642,11 @@ figcaption {
 
 .logoAvatar {
   border-radius: 50%;
-  width: 75px;
-  height: 75px;
+  width: 60px;
+  height: 60px;
   margin-right: 2%;
   margin-bottom: 0px;
+  border: 1px solid rgb(212, 208, 208);
 }
 
   @media only screen and (max-width: 480px) {

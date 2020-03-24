@@ -19,8 +19,11 @@
 
 .title {
     color: black;
-    font-size: 3.7rem;
+    font-size: 3.0rem;
     text-decoration: none;
+    display: flex;
+    align-items: center;
+    text-align: center;
 }
 
 .navlist {
