@@ -16,7 +16,7 @@ const contactDetails = () => {
                     <a href="https://www.wykop.pl/ludzie/luvencedus/" target="_blank" rel="noopener noreferrer" class="linkUnderscore"><img src={luvenLogo} alt="luvencedus" class="authorAvatar"></img>Luvencedus</a>
                 </li>
             </ul>
-            <p>Lub napisz bezpośrednio na tagu <a href="https://www.wykop.pl/tag/daszwiare/" target="_blank" rel="noopener noreferrer" class="linkUnderscore">"Dasz Wiarę?"</a>.</p>
+            <p>lub napisz bezpośrednio na tagu <a href="https://www.wykop.pl/tag/daszwiare/" target="_blank" rel="noopener noreferrer" class="linkUnderscore">"Dasz Wiarę?"</a>.</p>
         </Layout>
     )
 }
