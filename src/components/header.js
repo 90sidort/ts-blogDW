@@ -1,6 +1,7 @@
 import React from 'react'
 import { Link, graphql, useStaticQuery } from 'gatsby'
 import headerStyle from './header.module.scss'
+import iconLogo from '../images/logo.jpg'
 
 const Header = () => {
     const dataHeader = useStaticQuery(graphql`
@@ -16,6 +17,7 @@ const Header = () => {
         <header className={headerStyle.header}>
             <h1>
                 <Link className={headerStyle.title} to="/">
+                    <img src={iconLogo} alt="logo" class="logoAvatar"></img>
                     {dataHeader.site.siteMetadata.title}
                 </Link>
             </h1>
