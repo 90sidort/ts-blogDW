@@ -617,6 +617,10 @@ html {
   pre tt:after {
     content: "";
   }
+.gatsby-resp-image-image {
+  text-align: center;
+}
+
   @media only screen and (max-width: 480px) {
     html {
       font-size: 100%;
