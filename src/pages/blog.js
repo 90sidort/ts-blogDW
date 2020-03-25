@@ -34,7 +34,6 @@ const BlogPage = () => {
                             <Link to={`/blog/${edge.node.fields.slug}`}>
                                 <h2>{edge.node.frontmatter.title}</h2>
                                 <h4>{edge.node.frontmatter.subtitle}</h4>
-                                <p className={blogStyles.date}>Opublikowano: {edge.node.frontmatter.date}</p>
                             </Link>
                         </li>
                     )
