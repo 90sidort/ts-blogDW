@@ -22,12 +22,13 @@ const BlogPage = () => {
         }
     }
     `)
+    const reversed = data.allMarkdownRemark.edges.reverse()
     return (
         <Layout>
             <h1>Blog</h1>
             <p>Wszystkie wpisy z serii:</p>
             <ol className={blogStyles.posts}>
-                {data.allMarkdownRemark.edges.map((edge) => {
+                {reversed.map((edge) => {
                     return (
                         <li className={blogStyles.post}>
                             <Link to={`/blog/${edge.node.fields.slug}`}>
