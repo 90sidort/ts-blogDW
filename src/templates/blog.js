@@ -30,7 +30,7 @@ const Blog = (props) => {
                     Wykopie
                 </a>
             </h6>
-            <div dangerouslySetInnerHTML={{ __html: props.data.markdownRemark.html}}></div>
+            <div dangerouslySetInnerHTML={{ __html: props.data.markdownRemark.html}} className={blogStyles.mainContent}></div>
             <BackMain />
         </Layout>
     )
