@@ -1,10 +1,12 @@
 import React from 'react'
 import { Link } from 'gatsby'
 import Layout from '../components/layout'
+import Head from '../components/head'
 
 const aboutBio = () => {
     return (
         <Layout>
+            <Head title ="Seria" />
             <h1>Dasz Wiarę?</h1>
             <p class="indented_paragraph">
                 Seria powstała jako solowy projekt <a class="linkUnderscore" href='https://www.wykop.pl/ludzie/luvencedus/'>luvencedusa</a>. Zapoczątkował ją pierwszym wpisem

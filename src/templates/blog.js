@@ -3,6 +3,7 @@ import { graphql } from 'gatsby'
 import Layout from '../components/layout'
 import BackMain from '../components/backMain'
 import blogStyles from '../styles/blog.module.scss'
+import Head from '../components/head'
 
 export const query = graphql`
 query ( $slug: String!) {
@@ -13,6 +14,7 @@ query ( $slug: String!) {
         date
         original
         author
+        titleTab
       }
       html
     }
@@ -22,6 +24,7 @@ query ( $slug: String!) {
 const Blog = (props) => {
     return (
         <Layout>
+            <Head title={props.data.markdownRemark.frontmatter.titleTab}/>
             <h1>{props.data.markdownRemark.frontmatter.title}</h1>
             <h4>{props.data.markdownRemark.frontmatter.subtitle}</h4>
             <h6>

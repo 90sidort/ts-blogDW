@@ -4,6 +4,7 @@ subtitle: "Zły, który ratuje słońce, czyli Set."
 date: "2016-05-19"
 original: "https://www.wykop.pl/wpis/17794599/dasz-wiare-odc-3-zly-ktory-ratuje-slonce-czyli-set/"
 author: "Luvencedus"
+titleTab: "Odcinek 3"
 ---
 
 Mitologia egipska nie jest tak dobrze poznana jak chociażby grecka, o której wszyscy uczyli się w szkołach. Z tego powodu krąży wiele błędnych poglądów na temat bóstw staroegipskich. Jednym z nich jest postrzeganie Seta jako głównego antagonisty i boga wszelkiego zła. Jednak jeśli przyjrzeć się trochę bliżej staroegipskim mitom to, jak Seta postrzegali jego wyznawcy, wygląda zgoła inaczej. Najstarsze przedstawienie Seta pochodzi z okresu, zanim w Egipcie zaczęły rządzić dynastie faraonów (4000-3500 p.n.e.). Już wtedy Set był przedstawiany z głową zwierzęcia, które ciężko zidentyfikować –doszukiwano się podobieństwa do szakala, mrównika, świni rzecznej albo osła. Najprawdopodobniej było to zwierzę z gatunku psowatych, które dawno już wyginęło. Obecnie określa się to stworzenie jako „Zwierzę Seta”, współcześni mieszkańcy egipskich wiosek nazywają go Saalawa i utrzymują, że tego typu zwierzęta co jakiś czas atakują ich dobytek.

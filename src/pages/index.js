@@ -6,7 +6,7 @@ import Head from '../components/head'
 const indexPage = () => {
     return (
             <Layout>
-                <Head />
+                <Head title ="Główna" />
                 <h1>Cześć!</h1>
                 <p>Ta strona jest poświęcona serii "Dasz Wiarę", pierwotnie publikowanej na <a class="linkUnderscore" href="https://www.wykop.pl/tag/daszwiare/" target="_blank" rel="noopener noreferrer">Wykopie</a>.</p>
                 <p>Co to za seria i o czym jest ten blog? Sprawdź zakładkę <Link class="linkUnderscore" to='/about'>Seria</Link>.</p>
