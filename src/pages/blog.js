@@ -6,7 +6,7 @@ import blogStyles from '../styles/blog.module.scss'
 const BlogPage = () => {
     const data = useStaticQuery(graphql`
     query {
-        allMarkdownRemark {
+        allMarkdownRemark (sort: { fields: [frontmatter___date], order: DESC }) {
             edges {
                 node {
                     frontmatter {
@@ -17,18 +17,18 @@ const BlogPage = () => {
                     fields {
                         slug
                     }
+      
                 }
             }
         }
     }
     `)
-    const reversed = data.allMarkdownRemark.edges.reverse()
     return (
         <Layout>
             <h1>Blog</h1>
             <p>Wszystkie wpisy z serii:</p>
             <ol className={blogStyles.posts}>
-                {reversed.map((edge) => {
+                {data.allMarkdownRemark.edges.map((edge) => {
                     return (
                         <li className={blogStyles.post}>
                             <Link to={`/blog/${edge.node.fields.slug}`}>
