@@ -24,10 +24,10 @@ const Header = () => {
             <nav>
                 <ul className={headerStyle.navlist}>
                     <li>
-                        <Link className={headerStyle.navItem} activeClassName={headerStyle.activateNavItem} to="/">Strona główna</Link>
+                        <Link className={headerStyle.navItem} activeClassName={headerStyle.activateNavItem} to="/">Główna</Link>
                     </li>
                     <li>
-                        <Link className={headerStyle.navItem} activeClassName={headerStyle.activateNavItem} to="/about">O serii</Link>
+                        <Link className={headerStyle.navItem} activeClassName={headerStyle.activateNavItem} to="/about">Seria</Link>
                     </li>
                     <li>
                         <Link className={headerStyle.navItem} activeClassName={headerStyle.activateNavItem} to="/blog">Blog</Link>

@@ -5,9 +5,9 @@ import Layout from '../components/layout'
 const aboutBio = () => {
     return (
         <Layout>
-            <h1>O serii</h1>
+            <h1>Dasz Wiarę?</h1>
             <p class="indented_paragraph">
-                "Dasz wiarę" powstało jako solowy projekt <a class="linkUnderscore" href='https://www.wykop.pl/ludzie/luvencedus/'>luvencedusa</a>. Zapoczątkował ją pierwszym wpisem
+                Seria powstała jako solowy projekt <a class="linkUnderscore" href='https://www.wykop.pl/ludzie/luvencedus/'>luvencedusa</a>. Zapoczątkował ją pierwszym wpisem
                 o kultach cargo rodem z wysp Oceanii. Z czasem dołączył do niego inny pasjonat religioznawstwa i historii-&nbsp; 
                 <a class="linkUnderscore" href='https://www.wykop.pl/ludzie/niedoszly_andrzej/'>andrzej</a>, tworząc wpis o masowej konwersji Majów na prawosławie.
             </p>
