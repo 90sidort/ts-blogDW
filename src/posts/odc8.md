@@ -1,6 +1,6 @@
 ---
 title: "Dasz wiarę? Odcinek 8."
-subtitle: "Czas Snu, czyli mitologia Aborygenów"
+subtitle: "Czas Snu, czyli mitologia Aborygenów."
 date: "2016-07-01"
 original: "https://www.wykop.pl/wpis/18451555/dasz-wiare-odc-8-czas-snu-czyli-mitologia-aborygen/"
 author: "Luvencedus"
