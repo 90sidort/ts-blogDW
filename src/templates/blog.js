@@ -4,6 +4,7 @@ import Layout from '../components/layout'
 import BackMain from '../components/backMain'
 import blogStyles from '../styles/blog.module.scss'
 import Head from '../components/head'
+import Sources from '../components/sources'
 
 export const query = graphql`
 query ( $slug: String!) {
@@ -15,6 +16,7 @@ query ( $slug: String!) {
         original
         author
         titleTab
+        sources
       }
       html
     }
@@ -35,6 +37,9 @@ const Blog = (props) => {
             </h6>
             <div dangerouslySetInnerHTML={{ __html: props.data.markdownRemark.html}} className={blogStyles.mainContent}></div>
             <BackMain />
+            {props.data.markdownRemark.frontmatter.sources !== null && 
+              <Sources sources={props.data.markdownRemark.frontmatter.sources}/>
+            }
         </Layout>
     )
 }

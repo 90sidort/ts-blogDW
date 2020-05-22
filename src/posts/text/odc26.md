@@ -1,6 +1,6 @@
 ---
 title: "Dasz wiarę? Odcinek 26."
-subtitle: "Czary, morderstwa i Dalajlama, czyli kult Dordże Szugdena"
+subtitle: "Czary, morderstwa i Dalajlama, czyli kult Dordże Szugdena."
 date: "2018-03-28"
 original: "https://www.wykop.pl/wpis/30950109/dasz-wiare-odc-26-czary-morderstwa-i-dalajlama-czy/"
 author: "Luvencedus"
