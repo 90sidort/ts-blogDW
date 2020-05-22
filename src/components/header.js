@@ -17,7 +17,7 @@ const Header = () => {
         <header className={headerStyle.header}>
             <h1>
                 <Link className={headerStyle.title} to="/">
-                    <img src={iconLogo} alt="logo" class="logoAvatar"></img>
+                    <img src={iconLogo} alt="logo" className="logoAvatar"></img>
                     {dataHeader.site.siteMetadata.title}
                 </Link>
             </h1>
