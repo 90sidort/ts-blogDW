@@ -5,7 +5,7 @@ date: "2018-04-27"
 original: "https://www.wykop.pl/wpis/31580117/dasz-wiare-odc-28-w-ktorym-dokladamy-cegielke-do-i/"
 author: "Andrzej"
 titleTab: "Odcinek 29"
-sources: "https://www.telegraph.co.uk/news/uknews/law-and-order/7808783/Prisoners-converting-to-Islam-for-perks.html   https://www.nytimes.com/2013/02/04/world/europe/rise-of-islamic-converts-challenges-france.html?_r=0   http://blogs.lse.ac.uk/europpblog/2015/03/30/being-german-becoming-muslim-how-german-converts-to-islam-balance-their-national-identity-and-their-faith/   http://www.dailymail.co.uk/news/article-1343954/100-000-Islam-converts-living-UK-White-women-keen-embrace-Muslim-faith.html   http://www.bbc.com/news/uk-12075931"
+sources: "https://www.telegraph.co.uk/news/uknews/law-and-order/7808783/Prisoners-converting-to-Islam-for-perks.html||Telegraph: Prisoners converting to Islam for perks   https://www.nytimes.com/2013/02/04/world/europe/rise-of-islamic-converts-challenges-france.html?_r=0||New York Times: Rise of islamic converts challanges France   http://blogs.lse.ac.uk/europpblog/2015/03/30/being-german-becoming-muslim-how-german-converts-to-islam-balance-their-national-identity-and-their-faith/||London School of Economics: Being German, becoming Muslim: how German converts to Islam balance their national identity and their faith   http://www.dailymail.co.uk/news/article-1343954/100-000-Islam-converts-living-UK-White-women-keen-embrace-Muslim-faith.html||Daily Mail: 100 000 Islam converts   http://www.bbc.com/news/uk-12075931||BBC: Converting to Islam - the white Britons becoming Muslims"
 
 ---
 

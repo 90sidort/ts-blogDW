@@ -5,7 +5,7 @@ date: "2019-07-25"
 original: "https://www.wykop.pl/wpis/42831455/dasz-wiare-odc-39-w-ktorym-wyrzekamy-sie-bogactwa-/"
 author: "Andrzej"
 titleTab: "Odcinek 39"
-sources: "https://www.newadvent.org/cathen/15527b.htm   http://www.waldensian.info/History.htm   https://en.wikipedia.org/wiki/Waldensians   https://en.wikipedia.org/wiki/Piedmontese_Easter"
+sources: "https://www.newadvent.org/cathen/15527b.htm||Catholic Encyclopedia: Waldenses   http://www.waldensian.info/History.htm||Waldensian.info: History   https://en.wikipedia.org/wiki/Waldensians||Wikipedia: Waldensians   https://en.wikipedia.org/wiki/Piedmontese_Easter||Wikipedia: Piedmontese Easter"
 
 ---
 

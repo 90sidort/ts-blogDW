@@ -5,7 +5,8 @@ date: "2019-10-20"
 original: "https://www.wykop.pl/wpis/44760375/dasz-wiare-odc-45-w-ktorym-wyprzedzamy-swoja-epoke/"
 author: "Andrzej"
 titleTab: "Odcinek 45"
-sources: "https://culture.pl/en/article/the-polish-brethren-the-first-reformed-peace-church-polands-first-banned-religion   https://web.archive.org/web/20110515111348/http://www.socinian.org/polish_socinians.html   http://www.racjonalista.pl/kk.php/d,103   https://krytykapolityczna.pl/kultura/czytaj-dalej/tazbir-krotki-kurs-historii-arian/"
+sources: "https://culture.pl/en/article/the-polish-brethren-the-first-reformed-peace-church-polands-first-banned-religion||Culture.pl: The Polish Brethren: The First Reformed Peace Church & Poland’s First Banned Religion   https://web.archive.org/web/20110515111348/http://www.socinian.org/polish_socinians.html||Socinian.org: FROM THE POLISH SOCINIANS TO
+THE AMERICAN CONSTITUTION   http://www.racjonalista.pl/kk.php/d,103||Racjonalista.pl: Arianie (socynianie)   https://krytykapolityczna.pl/kultura/czytaj-dalej/tazbir-krotki-kurs-historii-arian/||Krytykapolityczna.pl: TAZBIR: KRÓTKI KURS HISTORII ARIAN"
 
 ---
 

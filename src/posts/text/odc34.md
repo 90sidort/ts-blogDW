@@ -5,7 +5,7 @@ date: "2018-09-19"
 original: "https://www.wykop.pl/wpis/35323739/dasz-wiare-odc-34-w-ktorym-poznajemy-wzloty-i-upad/"
 author: "Andrzej"
 titleTab: "Odcinek 34"
-sources: "http://www.iranicaonline.org/articles/manicheism-v-in-china-1   https://trace.tennessee.edu/cgi/viewcontent.cgi?referer=https://www.google.pl/&httpsredir=1&article=1529&context=utk_chanhonoproj   https://web.archive.org/web/20140808000234/http://www.mq.edu.au/research/centres_and_groups/ancient_cultures_research_centre/research/cultural_ex_silkroad/zayton   ''A Refuge of Heretics: Nestorians and Manichaeans on the Silk Road'' w: Foltz, Richard ''Religions of the Silk Road''"
+sources: "http://www.iranicaonline.org/articles/manicheism-v-in-china-1||Iranica: Manicheism in China   https://trace.tennessee.edu/cgi/viewcontent.cgi?referer=https://www.google.pl/&httpsredir=1&article=1529&context=utk_chanhonoproj||University of Tennessee: Manichaeism and its Spread into China   https://web.archive.org/web/20140808000234/http://www.mq.edu.au/research/centres_and_groups/ancient_cultures_research_centre/research/cultural_ex_silkroad/zayton||Macquarie University: Manichaean and (Nestorian) Christian Remains in Zayton   ''A Refuge of Heretics: Nestorians and Manichaeans on the Silk Road'' w: Foltz, Richard ''Religions of the Silk Road''"
 
 ---
 

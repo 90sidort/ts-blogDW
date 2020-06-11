@@ -5,7 +5,7 @@ date: "2019-08-20"
 original: "https://www.wykop.pl/wpis/43324487/dasz-wiare-odc-41-w-ktorym-dotykamy-boga-rozkminia/"
 author: "Andrzej"
 titleTab: "Odcinek 41"
-sources: "Jennifer Kolpacoff Deane, ''Spiritual Franciscans, the Poverty Controversy, and the Apocalypse'' w: ''A History of Medieval Heresy and Inquisition''   https://www.newadvent.org/cathen/08406c.htm"
+sources: "Jennifer Kolpacoff Deane, ''Spiritual Franciscans, the Poverty Controversy, and the Apocalypse'' w: ''A History of Medieval Heresy and Inquisition''   https://www.newadvent.org/cathen/08406c.htm||Catholic Encyclopedia: Joachim of Flora"
 
 ---
 

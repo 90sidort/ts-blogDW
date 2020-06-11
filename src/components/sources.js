@@ -23,8 +23,9 @@ class Sources extends React.Component {
                     <ol className={sourcesStyles.sourceList}>
                         {this.generateSources().map((source) => {
                             if(source.includes('http')) {
+                                const sourceEl = source.split('||')
                                 return (
-                                    <li><a className={sourcesStyles.sourceLink} href={source} target="_blank" rel="noopener noreferrer">{source}</a></li>
+                                    <li><a className={sourcesStyles.sourceLink} href={sourceEl[0]} target="_blank" rel="noopener noreferrer">{sourceEl[1]}</a></li>
                                 )
                             } else {
                                 return (

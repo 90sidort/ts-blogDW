@@ -5,7 +5,7 @@ date: "2018-05-06"
 original: "https://www.wykop.pl/wpis/31792029/dasz-wiare-odc-31-w-ktorym-jestesmy-bardziej-alban/"
 author: "Andrzej"
 titleTab: "Odcinek 31"
-sources: "https://albanianstudies.weebly.com   http://www.newadvent.org/cathen/08206a.htm"
+sources: "https://albanianstudies.weebly.com||Albanian Studies   http://www.newadvent.org/cathen/08206a.htm||Catholic Encyclopedia: Italo-Greeks"
 
 ---
 

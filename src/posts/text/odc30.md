@@ -5,7 +5,7 @@ date: "2018-04-30"
 original: "https://www.wykop.pl/wpis/31653369/dasz-wiare-odc-30-w-ktorym-rzadzimy-wielomilionowy/"
 author: "Andrzej"
 titleTab: "Odcinek 30"
-sources: "Roy Choudhury, Makhan Lal, ''The Din-i-Ilahi, or, The religion of Akbar''   https://www.economist.com/node/347080"
+sources: "Roy Choudhury, Makhan Lal, ''The Din-i-Ilahi, or, The religion of Akbar''   https://www.economist.com/node/347080||The Economist: Multicultural Akbar"
 
 ---
 

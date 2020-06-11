@@ -5,7 +5,7 @@ date: "2018-04-22"
 original: "https://www.wykop.pl/wpis/31477993/dasz-wiare-odc-27-w-ktorym-bijemy-rekord-sprzed-ty/"
 author: "Andrzej"
 titleTab: "Odcinek 27"
-sources: "http://www.ancientfaith.com/podcasts/features/150000_converts_in_guatemala/print   https://www.nytimes.com/1988/12/27/world/guatemalan-priest-s-daring-crusade.html   http://www.mayanorthodoxy.com/faq/"
+sources: "http://www.ancientfaith.com/podcasts/features/150000_converts_in_guatemala/print||AncientFaith: 150,000 Converts in Guatemala!   https://www.nytimes.com/1988/12/27/world/guatemalan-priest-s-daring-crusade.html||New York Times: Guatemalan Priest's Daring Crusade   http://www.mayanorthodoxy.com/faq/||Mayan Orthodoxy: FAQ"
 
 ---
 

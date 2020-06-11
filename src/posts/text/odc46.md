@@ -1,6 +1,6 @@
 ---
 title: "Dasz wiarę? Odcinek 46,"
-subtitle: "46 w którym ruszamy śladem buddyjskich misjonarzy i wspólnot na ziemiach, których dzisiaj z buddyzmem się raczej nie kojarzy."
+subtitle: "w którym ruszamy śladem buddyjskich misjonarzy i wspólnot na ziemiach, których dzisiaj z buddyzmem się raczej nie kojarzy."
 date: "2019-10-27"
 original: "https://www.wykop.pl/wpis/44935365/dasz-wiare-odc-46-w-ktorym-ruszamy-sladem-buddyjsk/"
 author: "Andrzej"

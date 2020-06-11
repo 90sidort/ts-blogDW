@@ -5,7 +5,7 @@ date: "2019-07-19"
 original: "https://www.wykop.pl/wpis/42727387/dasz-wiare-odc-38-w-ktorym-nawracamy-sie-na-chrzes/"
 author: "Andrzej"
 titleTab: "Odcinek 38"
-sources: "https://en.wikipedia.org/wiki/Taiping_Rebellion   https://en.wikipedia.org/wiki/Hong_Xiuquan   https://en.wikipedia.org/wiki/Taiping_Heavenly_Kingdom   https://en.wikipedia.org/wiki/God_Worshipping_Society"
+sources: "https://en.wikipedia.org/wiki/Taiping_Rebellion||Wikipedia: Taiping Rebellion   https://en.wikipedia.org/wiki/Hong_Xiuquan||Wikipedia: Hong Xiuquan   https://en.wikipedia.org/wiki/Taiping_Heavenly_Kingdom||Wikipedia: Taiping Heavenly Kingdom   https://en.wikipedia.org/wiki/God_Worshipping_Society||Wikipedia:God Worshipping Society"
 
 ---
 
