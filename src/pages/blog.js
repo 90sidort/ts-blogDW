@@ -15,6 +15,7 @@ const BlogPage = () => {
                         subtitle
                         date
                         titleTab
+                        tag
                     }
                     fields {
                         slug

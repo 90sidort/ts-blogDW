@@ -5,6 +5,7 @@ date: "2016-05-11"
 original: "https://www.wykop.pl/wpis/17682483/dasz-wiare-odc-2-polska-mysl-teologiczna-czyli-mar/"
 author: "Luvencedus"
 titleTab: "Odcinek 2"
+tag: "katolicyzm,chrzescijanstwo,polska"
 ---
 
 Polska w obiegowej opinii zwykle jawi się jako kraj jednolity religijnie, w większości rzymskokatolicki. Nawet dawniej, kiedy polska ziemia była domem dla wyznawców różnych religii, nie była nigdy świadkiem narodzin nowej wiary. Ten stan utrzymywał się aż do roku 1893, kiedy to katolicka zakonnica Maria Franciszka Kozłowska doznała mistycznego przeżycia. Był to początek jedynego rdzennie polskiego wyznania, które rozprzestrzeniło się po świecie.

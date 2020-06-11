@@ -5,6 +5,7 @@ date: "2016-08-19"
 original: "https://www.wykop.pl/wpis/19219055/dasz-wiare-odc-12-swiety-wilkolak-czyli-kynocefalo/"
 author: "Luvencedus"
 titleTab: "Odcinek 12"
+tag: "chrzescijanstwo, ludowe, europa"
 ---
 
 Od wieków w wielu kulturach pojawiają się mity o istotach czy bogach z ciałem ludzkim i psią lub wilczą głową. Nawet dzisiaj obecny i powszechny jest w kulturze wizerunek wilkołaka, choć raczej nikt nie wierzy w ich istnienie na poważnie. Tymczasem w średniowieczu plotki o istnieniu potomków wilkołaków zaprzątały głowę największym teologom chrześcijańskim.

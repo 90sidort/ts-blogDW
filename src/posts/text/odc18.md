@@ -5,6 +5,7 @@ date: "2017-04-04"
 original: "https://www.wykop.pl/wpis/23115999/dasz-wiare-odc-18-nie-czyn-sobie-podobizny-czegoko/"
 author: "Luvencedus"
 titleTab: "Odcinek 18"
+tag: "chrzescijanstwo, prawoslawie, europa, katolicyzm"
 ---
 
 Ikonoklazm, czyli dosłownie „kruszenie obrazów”, to jedno z nielicznych bizantyjskich słów, które są używane do dzisiaj. Słowem tym określa się odłam chrześcijaństwa, który był wyrazem ponadczasowego konfliktu, tak starego, jak stary jest Stary Testament. Bowiem to w Księdze Wyjścia oraz w Księdze Powtórzonego Prawa znajduje się fragment Dekalogu, przywołany częściowo w tytule odcinka, który wzbudzał i nadal wzbudza kontrowersje w świecie chrześcijańskim. Jednak bynajmniej studiowanie Pisma Świętego dało początek tej herezji.

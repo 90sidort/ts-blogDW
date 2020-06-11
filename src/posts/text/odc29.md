@@ -6,7 +6,7 @@ original: "https://www.wykop.pl/wpis/31580117/dasz-wiare-odc-28-w-ktorym-doklada
 author: "Andrzej"
 titleTab: "Odcinek 29"
 sources: "https://www.telegraph.co.uk/news/uknews/law-and-order/7808783/Prisoners-converting-to-Islam-for-perks.html||Telegraph: Prisoners converting to Islam for perks   https://www.nytimes.com/2013/02/04/world/europe/rise-of-islamic-converts-challenges-france.html?_r=0||New York Times: Rise of islamic converts challanges France   http://blogs.lse.ac.uk/europpblog/2015/03/30/being-german-becoming-muslim-how-german-converts-to-islam-balance-their-national-identity-and-their-faith/||London School of Economics: Being German, becoming Muslim: how German converts to Islam balance their national identity and their faith   http://www.dailymail.co.uk/news/article-1343954/100-000-Islam-converts-living-UK-White-women-keen-embrace-Muslim-faith.html||Daily Mail: 100 000 Islam converts   http://www.bbc.com/news/uk-12075931||BBC: Converting to Islam - the white Britons becoming Muslims"
-
+tag: "islam, europa"
 ---
 
 Wszyscy, którzy chociaż raz na jakiś czas przeglądają główną Wykopu (2/10, nie polecam) są świadomi tego, że w Zachodniej Europie z roku na rok przybywa wyznawców islamu. Jest to fakt, któremu raczej nikt nie zaprzecza. Różne są tylko oceny zjawiska - niektórzy cieszą się, że jest więcej różnorodności, inni widzą w tym przejaw upadku Europy, jeszcze inni pocieszają się, że muzułmanie prędzej czy później ulegną sekularyzacji/chrystianizacji (zależnie od ideologicznego skrzywienia). Z tym zjawiskiem wiąże się zazwyczaj migrację, zwiększoną jeszcze przez tak zwany kryzys uchodźczy.

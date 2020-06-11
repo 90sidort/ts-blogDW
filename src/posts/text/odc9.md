@@ -5,6 +5,7 @@ date: "2016-07-21"
 original: "https://www.wykop.pl/wpis/18768849/dasz-wiare-odc-9-papieska-edycja-limitowana-czyli-/"
 author: "Luvencedus"
 titleTab: "Odcinek 9"
+tag: "chrzescijanstwo, katolicyzm"
 ---
 
 Jeszcze 50 lat temu wśród katolików jedną z najbardziej pożądanych relikwii był tzw. Agnusek– woskowy medalion z wizerunkiem baranka (łac. Agnus Dei - Baranek Boży), osobiście pobłogosławiony przez papieża. Ten kawałek wosku miał być pośrednikiem i katalizatorem Bożej łaski, chronić od śmierci i nieszczęść, zapewniać bezpieczną podróż i bujne plony. Przez 1000 lat wiara w jego moc nadała mu rangę potężnego amuletu, a otrzymać Agnuska, to jak wygrać z rakiem (i to czasem dosłownie).

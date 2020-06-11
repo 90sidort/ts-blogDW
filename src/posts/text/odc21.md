@@ -5,6 +5,7 @@ date: "2017-07-05"
 original: "https://www.wykop.pl/wpis/25105809/dasz-wiare-odc-21-za-wszystkim-stoja-zydzi-czyli-k/"
 author: "Luvencedus"
 titleTab: "Odcinek 21"
+tag: "judaizm"
 ---
 
 Kabała (hebr. „otrzymywanie”) to nurt mistyki żydowskiej rozwijający się w średniowieczu, ale korzeniami sięgającymi w starożytną gnozę i idee neoplatońskie. Za piewszego kabalistę uważany jest rabin Szymon bar Jochaj, działający w IIw. Tradycje przekazywane ustnie zaczęły się krystalizować w XIIw. W Prowansji, a pod koniec kolejnego stulecia powstała Sefer ha-zohar („Księga blasku”). Księga ta, spisana po aramejsku przez Mojżesza z Leonu, do dzisiaj stanowi centrum kabalistyki. Kabała była popularna wśród Żydów sefardyjskich, toteż wygnanie ich z Hiszpanii w 1492r. przyczyniło się do upowszechnienia tej idei w całej Europie i jej rozkwitu, szczególnie w ramach ruchów chasydzkich.

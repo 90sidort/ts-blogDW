@@ -5,7 +5,7 @@ date: "2016-05-05"
 original: "https://www.wykop.pl/wpis/17608243/dasz-wiare-odc-1-jak-zdobyc-manne-z-nieba-czyli-ku/"
 author: "Luvencedus"
 titleTab: "Odcinek 1"
-tag: "test"
+tag: "ludowe,noweRuchyReligijne"
 ---
 
 Rdzenni mieszkańcy wysp na Pacyfiku żyli spokojnie przez wieki, rozrzuceni po wielu archipelagach, rozwijając specyficzną kulturę i prymitywne wierzenia. Przybycie pierwszych białych Europejczyków wprowadziło trochę chaosu, ale ich zwyczaje szybko zostały wchłonięte przez autochtonów. Prawdziwe zamieszanie wywołała dopiero stała obecność białych na początku XX wieku i podczas II wojny światowej. Wśród tubylców, w wielu miejscach jednocześnie, rozwinął się wtedy tzw. kult cargo, jedno z najbardziej osobliwych wierzeń nowożytnych.

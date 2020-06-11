@@ -6,7 +6,7 @@ original: "https://www.wykop.pl/wpis/31477993/dasz-wiare-odc-27-w-ktorym-bijemy-
 author: "Andrzej"
 titleTab: "Odcinek 27"
 sources: "http://www.ancientfaith.com/podcasts/features/150000_converts_in_guatemala/print||AncientFaith: 150,000 Converts in Guatemala!   https://www.nytimes.com/1988/12/27/world/guatemalan-priest-s-daring-crusade.html||New York Times: Guatemalan Priest's Daring Crusade   http://www.mayanorthodoxy.com/faq/||Mayan Orthodoxy: FAQ"
-
+tag: "prawoslawie, ameryki, chrzescijanstwo"
 ---
 
 Kiedy myślimy o prawosławiu (zakładając, że w ogóle o nim myślimy) na myśl przychodzą nam zapewne Grecy i wschodni oraz południowi Słowianie. Jeśli kumamy coś z historii, to wyobraźnia podsuwa nam Bizancjum, Ruś Kijowską, Serbię, Bułgarię czy Cesarstwo Rosyjskie. Jeśli uważnie czytaliśmy #niedoszlahistoria to… a, no tak, do tego momentu jeszcze nie doszliśmy. Nasze skojarzenia raczej nie zaprowadzą nas do parnych i zielonych terenów Ameryki Środkowej i Majów. Niesłusznie.

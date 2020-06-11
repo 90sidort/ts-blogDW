@@ -5,6 +5,7 @@ date: "2016-06-16"
 original: "https://www.wykop.pl/wpis/18175983/dasz-wiare-odc-6-swiety-psychodeliczny-kaktus-czyl/"
 author: "Luvencedus"
 titleTab: "Odcinek 6"
+tag: "ameryki,ludowe,poganstwo"
 ---
 
 Pozbawiony kolców kaktus pejotl (Lophophora williamsii) pochodzi z terenów północnego Meksyku. Osiąga do 20cm wysokości, a na jego czubku wyrasta biały lub różowy kwiat. Kaktus ten zawiera ponad 50 znanych alkaloidów, ale jeden z nich jest wyjątkowy – to meskalina, ma działanie psychoaktywne i wywołuje halucynacje. To właśnie czubek kaktusa zawiera największe stężenie meskaliny i wysuszony jest spożywany przez wiernych Tubylczego Kościoła Amerykańskiego niczym komunia.

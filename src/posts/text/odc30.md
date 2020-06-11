@@ -6,7 +6,7 @@ original: "https://www.wykop.pl/wpis/31653369/dasz-wiare-odc-30-w-ktorym-rzadzim
 author: "Andrzej"
 titleTab: "Odcinek 30"
 sources: "Roy Choudhury, Makhan Lal, ''The Din-i-Ilahi, or, The religion of Akbar''   https://www.economist.com/node/347080||The Economist: Multicultural Akbar"
-
+tag: "hinduizm, azja, islam, buddyzm"
 ---
 
 Historia Indii jest dosyć egzotyczną dziedziną wiedzy. A szkoda, bo można o niej powiedzieć w zasadzie wszystko poza tym, że jest nudna i uboga. Nasze szkolnictwo skupia się jednak głównie na historii cywilizacji zachodniej i jej poprzedniczkach. Wzmianki o Indiach są mocno fragmentaryczne i ciężkie do zrozumienia, bo wyjęte z kontekstu głównego nurtu. Z lekcji kojarzę tylko szczątkowe informacje o cywilizacji doliny Indusu, potem krótkie wspominki o arabskich i tureckich podbojach i kolonializm europejskich mocarstw. Ale od czego mamy internet?

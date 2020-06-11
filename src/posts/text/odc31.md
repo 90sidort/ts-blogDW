@@ -6,7 +6,7 @@ original: "https://www.wykop.pl/wpis/31792029/dasz-wiare-odc-31-w-ktorym-jestesm
 author: "Andrzej"
 titleTab: "Odcinek 31"
 sources: "https://albanianstudies.weebly.com||Albanian Studies   http://www.newadvent.org/cathen/08206a.htm||Catholic Encyclopedia: Italo-Greeks"
-
+tag: "europa, katolicyzm, chrzescijanstwo, prawoslawie"
 ---
 
 Albania mimo, że leży w Europie, jest prawdziwą terra incognita dla przeciętnego Polaka. No sami powiedzcie - ile znacie osób, które były w Albanii? Wśród moich znajomych więcej ludzi odwiedziło odległą Tajlandię, niż ten bałkański (k)raj. Dzięki działalności Popka wzrosła świadomość istnienia Albanii, zwłaszcza wśród młodzieży w wieku gimnazjalnym. Pewne informacje na temat Albanii i Albańczyków pojawiły się w mediach głównego nurty przy okazji konfliktu w Kosowie. Te jaskółki wiosny jednak nie czynią- zwłaszcza, że w przypadku wzmiankowanego konfliktu sympatia jest raczej po stronie serbskiej.

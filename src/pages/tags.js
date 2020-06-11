@@ -10,10 +10,6 @@ const TagsPage = () => {
             edges {
                 node {
                     frontmatter {
-                        title
-                        subtitle
-                        date
-                        titleTab
                         tag
                     }
                 }
@@ -21,21 +17,23 @@ const TagsPage = () => {
         }
     }
     `)
+    const tagsArr = [];
+    let tagArr = [];
+    data.allMarkdownRemark.edges.map((edge) => {
+        if (edge.node.frontmatter.tag) {
+            tagArr = (edge.node.frontmatter.tag).split(',')
+            tagArr.forEach((singleTag) => {
+                if (!tagsArr.includes(`#${singleTag.trim()}  `)){
+                    tagsArr.push(`#${singleTag.trim()}  `)
+                }
+            })
+        }
+    })
     return (
         <Layout>
             <Head title ="Tagi" />
             <h1>Tagi</h1>
-            <p>Wszystkie tagi w serii:</p>
-            <ol>
-                {data.allMarkdownRemark.edges.map((edge) => {
-                    console.log(edge)
-                    if (edge.node.frontmatter.tag) {
-                        return (
-                            <h4>#{edge.node.frontmatter.tag}</h4>
-                        )
-                    }
-                })}
-            </ol>
+            <p>{tagsArr}</p>
         </Layout>
     )
 }

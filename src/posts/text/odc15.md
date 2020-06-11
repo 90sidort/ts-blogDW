@@ -5,6 +5,7 @@ date: "2017-03-01"
 original: "https://www.wykop.pl/wpis/22545799/dasz-wiare-odc-15-przepowiednie-na-haju-czyli-wyro/"
 author: "Luvencedus"
 titleTab: "Odcinek 15"
+tag: "poganstwo, europa"
 ---
 
 Zacznijmy od mitologii: Apollo był synem Zeusa i bogini Leto. Po urodzeniu bóg dostał od ojca lirę, złotą przepaskę i rydwan zaprzężony w łabędzie. Na rydwanie tym Apollo udał się do kraju Hiperboryjczyków, ludu żyjącego na dalekiej północy, którzy oddawali bóstwu szczególną cześć; niektóre obrzędy kultu Apolla miały wywodzić się od tego ludu. Z kraju Hiperboryjczyków udał się Apollo do Grecji, gdzie na dłużej zatrzymał się w Delfach. Tam miał swoją wyrocznię ogromny wąż Pyton, syn Gai – Ziemi. Pyton usiłował zabić Leto, bowiem według przepowiedni miał zginąć z ręki jej syna. Zaatakował więc Apolla, a ten zabił go strzałami z łuku. W miejsce wyroczni Pytona bóstwo założyło swoje sanktuarium, które odtąd stało się głównym ośrodkiem jego kultu, a także ustanowiło igrzyska pytyjskie. Kapłanka zwana Pytią zasiadała na trójnogu i wprowadzała się w trans, głosząc przepowiednie. Trójnóg był bardzo ważnym artefaktem, Apollo toczył raz o niego spór z Heraklesem, któremu odmówiono odpowiedzi na pytanie, i który chciał porwać trójnóg aby ustanowić własną wyrocznię. Walkę braci przerwał dopiero Zeus, pozostawiając trójnóg w rękach Apolla.

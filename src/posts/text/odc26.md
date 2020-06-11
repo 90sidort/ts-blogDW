@@ -5,6 +5,7 @@ date: "2018-03-28"
 original: "https://www.wykop.pl/wpis/30950109/dasz-wiare-odc-26-czary-morderstwa-i-dalajlama-czy/"
 author: "Luvencedus"
 titleTab: "Odcinek 26"
+tag: "buddyzm, azja"
 ---
 
 Uśmiechnięty Dalajlama, zen, medytacja - przeciętnemu mieszkańcowi Zachodu właśnie tak kojarzy się buddyzm, także w jego tybetańskiej odmianie. Tymczasem buddyzm tybetański jest pełen magii, uroków i demonów, a jego spory teologiczne są bardziej skomplikowane, niż to się wydaję. Jednym z tego przykładów jest kontrowersja wokół Dordże Szugdena.

@@ -5,6 +5,7 @@ date: "2017-07-20"
 original: "https://www.wykop.pl/wpis/25464975/dasz-wiare-odc-22-starozytny-celebryta-czyli-herak/"
 author: "Luvencedus"
 titleTab: "Odcinek 22"
+tag: "poganstwo, europa"
 ---
 
 Postać Heraklesa jest i była znana przez całe wieki. Sięgająca korzeniami w epokę brązu, niezwykle popularna w starożytności, „odkryta” na nowo w epoce renesansu i klasycyzmu, a wreszcie przywoływana w kulturze masowej XX i XXI w. I tak jak my oglądamy dzisiaj z wypiekami na twarzy wyczyny superbohaterów, tak starożytni śledzili przygody Heraklesa.

@@ -5,6 +5,7 @@ date: "2017-08-02"
 original: "https://www.wykop.pl/wpis/25792969/dasz-wiare-odc-23-rece-ktore-lecza-czyli-kosciol-c/"
 author: "Luvencedus"
 titleTab: "Odcinek 23"
+tag: "chrzescijanstwo, noweRuchyReligijne"
 ---
 
 Popularne ostatnio grupy antyszczepionkowców (lub proepidemików) z wiarą godną fanatyzmu głoszą swoje teorie o nieskuteczności, a wręcz szkodliwości szczepionek. Można by pomyśleć, że ich wiara we własne przekonania może stanowić fundament nowej religii. Tymczasem prawie 150 lat temu w USA powstałą grupa wyznaniowa, która w imię Jezusa odrzuca nie tylko szczepionki, ale całą współczesną medycynę.

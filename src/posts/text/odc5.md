@@ -5,6 +5,7 @@ date: "2016-06-09"
 original: "https://www.wykop.pl/wpis/18058063/dasz-wiare-odc-5-bliskowschodni-czciciele-szatana-/"
 author: "Luvencedus"
 titleTab: "Odcinek 5"
+tag: "bliskiwschod"
 ---
 
 Krzywdzące i stereotypowe sformułowanie zawarte w tytule odcinka, było używane wobec jazydów – społeczności zamieszkującej Kurdystan - od dawna: przez muzułmanów w średniowieczu, europejskich badaczy kultur w XIX w., Saddama Husajna, a obecnie przez islamistów. Zwykle nie kończyło się na przemocy słownej, gdyż jazydzi ją jedną z najbardziej prześladowanych społeczności na przestrzeni dziejów, co ostatnio jest nagłaśniane przez media przy okazji agresji Państwa Islamskiego. Sytuacji nie poprawia izolacja Jazydów - nawet chrześcijańscy czy muzułmańscy Kurdowie wiedzą mało o swoich sąsiadach.

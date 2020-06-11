@@ -5,7 +5,7 @@ date: "2018-05-29"
 original: "https://www.wykop.pl/wpis/32306195/dasz-wiare-odc-32-w-ktorym-poznajemy-starozytnego-/"
 author: "Andrzej"
 titleTab: "Odcinek 32"
-
+tag: "ateizm, hinduizm, azja"
 ---
 
 Przy okazji różnych dyskusji o religiach, wierze, niewierze, bogach, bóstwach i co tam jeszcze, często pojawia się pogląd, według którego ateizm, materializm czy racjonalizm są nowinką, postępem, kolejnym krokiem na drodze rozwoju ludzkości. No po prostu nową jakością. Narracja idzie mniej więcej tak: głupi (w wersji bardziej przychylnej - mniej wiedzący) starożytni nie wiedzieli tego, co wiemy my i musieli wymyślać sobie bogów, Boga, diabły, anioły, dewy, skrzaty, elfy i sto innych kategorii nadprzyrodzonych istot. Na szczęście rozwój nauk pozwala nam na stopniowe wycinanie tych zabobonów, a ateizm jest dziejową koniecznością - tak jak pan profesor Dawkins powiedział.

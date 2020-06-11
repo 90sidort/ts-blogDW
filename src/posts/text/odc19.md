@@ -5,6 +5,7 @@ date: "2017-04-09"
 original: "https://www.wykop.pl/wpis/23245725/dasz-wiare-odc-19-kryszna-kryszna-hare-hare-czyli-/"
 author: "Luvencedus"
 titleTab: "Odcinek 19"
+tag: "hinduizm, noweRuchyReligijne"
 ---
 
 ISKCON czyli Międzynarodowe Towarzystwo Świadomości Kryszny (tzw. Hare Kryszna albo krzysznaici) znane jest w Polsce głównie za sprawą Pokojowej Wioski na Woodstocku oraz kolorowych procesji i śpiewów w centrach dużych miast. Jest to bodaj jedyna hinduistyczna grupa wyznaniowa kojarzona na Zachodzie, choć z tradycyjnym hinduistycznym politeizmem kult ten ma mało wspólnego.
