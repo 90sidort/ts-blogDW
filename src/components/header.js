@@ -3,6 +3,7 @@ import { Link, graphql, useStaticQuery } from 'gatsby'
 import headerStyle from '../styles/header.module.scss'
 import iconLogo from '../images/logo.jpg'
 
+
 const Header = () => {
     const dataHeader = useStaticQuery(graphql`
     query {
@@ -31,6 +32,9 @@ const Header = () => {
                     </li>
                     <li>
                         <Link className={headerStyle.navItem} activeClassName={headerStyle.activateNavItem} to="/blog">Blog</Link>
+                    </li>
+                    <li>
+                        <Link className={headerStyle.navItem} activeClassName={headerStyle.activateNavItem} to="/tags">Tagi</Link>
                     </li>
                     <li>
                         <Link className={headerStyle.navItem} activeClassName={headerStyle.activateNavItem} to="/contact">Kontakt</Link>

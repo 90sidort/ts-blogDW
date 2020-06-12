@@ -31,7 +31,7 @@ const Blog = (props) => {
             <h4>{props.data.markdownRemark.frontmatter.subtitle}</h4>
             <h6>
                 Autor: {props.data.markdownRemark.frontmatter.author}, Opublikowany: {props.data.markdownRemark.frontmatter.date}, Zobacz na&nbsp;
-                <a className={blogStyles.backMain} href={props.data.markdownRemark.frontmatter.original}>
+                <a className={blogStyles.wykopLink} href={props.data.markdownRemark.frontmatter.original}>
                     Wykopie
                 </a>
             </h6>

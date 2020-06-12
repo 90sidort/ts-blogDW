@@ -54,14 +54,6 @@ module.exports.createPages = async ({ graphql, actions }) => {
             }
         })
     })
-    // response.data.allMarkdownRemark.edges.forEach((singleEdge) => {
-    //     postTags = (singleEdge.node.frontmatter.tag).split(',')
-    //     postTags.forEach((singlePost) => {
-    //         if(!tagsFetched.includes(singlePost.trim())) {
-    //             tagsFetched.push(singlePost.trim())
-    //         }
-    //     })
-    // })
 
     tagsFetched.forEach((tagFetched) => {
         createPage({
