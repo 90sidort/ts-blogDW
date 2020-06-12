@@ -28,14 +28,15 @@ const TagsPage = (props) => {
         <Layout>
             <Head title={`tag #${props.pageContext.slug}`}/>
                 <h3>Wpisy z tagiem: #{props.pageContext.slug}</h3>
-                <ul>
+                <ul className={blogStyles.posts}>
                     {
                         data.allMarkdownRemark.edges.map((edge) => {
                         if ((edge.node.frontmatter.tag).includes(props.pageContext.slug)) {
                             return (
-                                <li>
+                                <li className={blogStyles.post}>
                                     <Link to={`/blog/${edge.node.fields.slug}`} className={blogStyles.backMain}>
-                                        {edge.node.frontmatter.title} <small>{edge.node.frontmatter.subtitle}</small>
+                                        <h2>{edge.node.frontmatter.title}</h2>
+                                        <h4>{edge.node.frontmatter.subtitle}</h4>
                                     </Link>
                                 </li>
                             )
