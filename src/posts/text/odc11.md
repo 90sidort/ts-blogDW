@@ -5,6 +5,7 @@ date: "2016-08-11"
 original: "https://www.wykop.pl/wpis/19083961/dasz-wiare-odc-11-wietnamski-papiez-buddysta-czyli/"
 author: "Luvencedus"
 titleTab: "Odcinek 11"
+tag: "chrzescijanstwo, noweRuchyReligijne, azja, buddyzm"
 ---
 
 Wietnam, od połowy XIX przeorany wojnami i komunizmem, jest znany raczej ze swojej krwawej historii niż z bogactwa kulturowego. O państwie tym, znajdującym się na styku wpływów buddyjskich, konfucjańsko-taoistycznych i kolonialnych, świat Zachodu usłyszał szeroko w latach 50. i 60. XX w. Wtedy to okazało się, że oprócz tradycyjnych religii wschodnich, rozwija się prężnie kult, będący lokalnym produktem synkretyzmu – kaodaizm, liczący kilka milionów wiernych.

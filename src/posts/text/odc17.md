@@ -5,6 +5,7 @@ date: "2017-03-29"
 original: "https://www.wykop.pl/wpis/23011599/dasz-wiare-odc-17-buddyjski-protestantyzm-czyli-am/"
 author: "Luvencedus"
 titleTab: "Odcinek 17"
+tag: "buddyzm, azja"
 ---
 
 „Przeklęta protestancka herezja dotarła i tutaj. Kult Amidy jest tu tym, czym wiara luterska w Europie; bo twierdzą oni, że do zbawienia nie potrzeba niczego więcej niż imienia Buddy Amidy. Jego wspaniałym i zbawiennym dla ludzkości zasługom okazuje się niesprawiedliwość, jeśli się wierzy, że konieczne są oprócz nich własne cnotliwe uczynki i wysiłki”– tak w 1571 r. w Japonii opisywał amidyzm jezuita Franciscus Cabralis. Ten odłam buddyzmu związany jest z Buddą Amitabhą, którego kult narodził się w Indiach i ok. 150r. dotarł do Chin. Po około 200 latach powstał tam ruch zwany Szkołą Czystej Ziemi. W 552r. kult Amidy przedostał się z Korei do Japonii, aby tam przerodzić się w nową, silną religię.

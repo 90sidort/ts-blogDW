@@ -5,6 +5,7 @@ date: "2017-03-21"
 original: "https://www.wykop.pl/wpis/22882515/dasz-wiare-odc-16-filozofowie-z-lasu-czyli-druidyz/"
 author: "Luvencedus"
 titleTab: "Odcinek 16"
+tag: "poganstwo, europa"
 ---
 
 Kultura Celtów (lub Galów) była jedną z trzech najważniejszych starożytnych kultur, obok greckiej i scytyjskiej w starożytności. Ich kolebką zdaje się być dzisiejsza Bawaria, a zachód był głównym kierunkiem późniejszej ekspansji. Oprócz tego ślady obecności Celtów znajdowane są na terenach Polski a nawet Turcji (plemię Galatów, do których potem św. Paweł pisał listy wywodzi się od osiadłych tam Galów czyli Celtów). Zdominowali oni ludy dzisiejszej Francji, Hiszpanii i Wysp Brytyjskich, a ich wierzenia, język i kultura promieniowały z całą Europę. Jednym z najciekawszych i najbardziej znanych elementów celtyckiej kultury była kasta druidów. Niektórzy badacze twierdzą, że druidyzm stanowi relikt ludów, które zamieszkiwały Europę przed przybyciem Celtów (do takich ludów należeli przodkowie dzisiejszych Basków). Inni, w tym rzymski historyk Pliniusz, wywodzą genezę druidów ściśle z Galii, skąd rozprzestrzeniła się na resztę świata celtyckiego. Niezależnie od pochodzenia, druidzi byli stowarzyszeniem kapłanów, czymś w rodzaju magów w Persji czy braminów w Indiach. Juliusz Cezar zauważył, że byli oni kastą, która (razem z wojownikami) stała ponad plebsem. Kasta druidów wewnątrz dzieliła się na trzy stany: bardów, filidów (od celt. filid oznaczające wieszczów, proroków) oraz właściwych druidów.

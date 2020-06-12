@@ -5,6 +5,7 @@ date: "2017-04-26"
 original: "https://www.wykop.pl/wpis/23696885/dasz-wiare-odc-20-zapomniana-potega-czyli-manichei/"
 author: "Luvencedus"
 titleTab: "Odcinek 20"
+tag: "iranskie, dualizm, manicheizm"
 ---
 
 Chrześcijanie nazywali go herezją. Gnostycy odwoływali się do niego jako źródła wiedzy o świecie. Wielkie imperia przez wieki na zmianę wpierały i prześladowały jego wyznawców. Obecnie jednak mało mówi się powszechnie o manicheizmie – religii, która swego czasu głoszona była od Gibraltaru po Morze Żółte.

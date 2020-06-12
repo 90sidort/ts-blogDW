@@ -5,6 +5,7 @@ date: "2016-05-26"
 original: "https://www.wykop.pl/wpis/17875191/dasz-wiare-odc-4-piekna-pani-smierc-czyli-santa-mu/"
 author: "Luvencedus"
 titleTab: "Odcinek 4"
+tag: "ludowe, ameryki, katolicyzm, poganstwo"
 ---
 
 Podczas kolonizowania i nawracania obu Ameryk mało kto zastanawiał się, jaki efekt da zaszczepienie europejskiego katolicyzmu na grunt silnie religijnych społeczności lokalnych, takich jak Aztekowie. Mimo oczywistych różnic, wierzenia przybyszów i tubylców miały ze sobą zaskakująco dużo wspólnego: ofiary z ludzi, bogowie śmierci i magiczne praktyki u rdzennych Meksykanów oraz ofiara Jezusa, memento mori i różnorodne nabożeństwa u katolickich przybyszów. Wymieszanie tych dwóch religii dało zaskakujący efekt, zdobywający coraz więcej zwolenników – kult Świętej Śmierci.

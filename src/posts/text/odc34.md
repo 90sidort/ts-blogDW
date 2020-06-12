@@ -6,7 +6,7 @@ original: "https://www.wykop.pl/wpis/35323739/dasz-wiare-odc-34-w-ktorym-poznaje
 author: "Andrzej"
 titleTab: "Odcinek 34"
 sources: "http://www.iranicaonline.org/articles/manicheism-v-in-china-1||Iranica: Manicheism in China   https://trace.tennessee.edu/cgi/viewcontent.cgi?referer=https://www.google.pl/&httpsredir=1&article=1529&context=utk_chanhonoproj||University of Tennessee: Manichaeism and its Spread into China   https://web.archive.org/web/20140808000234/http://www.mq.edu.au/research/centres_and_groups/ancient_cultures_research_centre/research/cultural_ex_silkroad/zayton||Macquarie University: Manichaean and (Nestorian) Christian Remains in Zayton   ''A Refuge of Heretics: Nestorians and Manichaeans on the Silk Road'' w: Foltz, Richard ''Religions of the Silk Road''"
-
+tag: "dualizm, azja"
 ---
 
 “To nie jest prawdziwy (tu wstaw nazwę dowolnej religii czy światopoglądu)” - to zdanie, które słyszy się wyjątkowo często w rozmowie z wyznawcami czy zwolennikami jakiejś religii bądź ideologii. Zazwyczaj pada ono jako odpowiedź na niewygodne zarzuty bądź wobec tych elementów/odłamów, z którymi rozmówca nie identyfikuje się albo podchodzi do nich z dużą dozą krytycyzmu. Nie, to nie będzie tekst krytykujący taką postawę. Zależy nam na tym żeby wiedzieć jak jest, a nie czy to słuszne. Swoją drogą, zmiany ideologii religijnej odbywają się zazwyczaj, jak wprowadzanie nowinek w starożytnym Rzymie - nikt nie przedstawia reformy jako czegoś nowego, a raczej jako “powrót do korzeni”.

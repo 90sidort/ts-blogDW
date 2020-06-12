@@ -5,6 +5,7 @@ date: "2017-09-26"
 original: "https://www.wykop.pl/wpis/27042081/dasz-wiare-odc-24-islam-hinduizm-czyli-sikhizm-tur/"
 author: "Luvencedus"
 titleTab: "Odcinek 24"
+tag: "islam, hinduizm, azja"
 ---
 
 Turban, długa broda, powłóczyste szaty i ciemna karnacja - taki zestaw cech budzi skojarzenia ze stereotypowym muzułmaninem. Tak jednak, oprócz bohaterów "Alladyna" wyglądają wyznawcy religii rodem z Pendżabu, która stanowiła swoistą "reformację" islamu i hiduizmu, a ostatnie wyrosła w odrębny system religijny.

@@ -6,7 +6,7 @@ original: "https://www.wykop.pl/wpis/43324487/dasz-wiare-odc-41-w-ktorym-dotykam
 author: "Andrzej"
 titleTab: "Odcinek 41"
 sources: "Jennifer Kolpacoff Deane, ''Spiritual Franciscans, the Poverty Controversy, and the Apocalypse'' w: ''A History of Medieval Heresy and Inquisition''   https://www.newadvent.org/cathen/08406c.htm||Catholic Encyclopedia: Joachim of Flora"
-
+tag: "chrzescijanstwo, katolicyzm, europa"
 ---
 
 Okres między XI i XIII wiekiem był w Europie Zachodniej czasem zmian w wielu dziedzinach życia- także religijnego. Nowym zjawiskiem było większe zainteresowanie religią wśród laikatu. Dotyczyło ono zarówno bardziej teoretycznych rozważań nad doktryną jak i praktycznych doświadczeń religijnych. Jednym z poszukujących był Joachim z Fiore. Południe Italii, gdzie się wychował, było prawdziwym tyglem wiar i etnosów- obok siebie żyli katoliccy Longobardowie i Normanowie, żydzi, prawosławni Grecy, muzułmańscy Arabowie oraz różne grupy heterodoksyjne. Joachim od samego początku był zatem świadom istnienia różnych wierzeń i tradycji. Jako syn możnego łatwo znalazł zajęcie na dworze, gdzie miał także styczność z najświatlejszymi i najlepiej wykształconymi ludźmi w państwie. Wiemy również, że odwiedził jeszcze bardziej multikulturowy Konstantynopol. W trakcie pobytu na Wschodzie przeżył kryzys duchowy i udał się na pielgrzymkę do Palestyny. Wędrował po pustyniach i miejsca kultu aż doświadczył niewytłumaczalnego przeżycia, które uznał za spotkanie z Bogiem i które na zawsze odmieniło jego życie. Pod wpływem zetknięcia ze znanym/nieznanym nawrócił się i po powrocie w rodzinne strony porzucił karierę na dworze, poświęcając się życiu jako pustelnik- asceta.

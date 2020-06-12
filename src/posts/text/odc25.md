@@ -5,6 +5,7 @@ date: "2017-10-05"
 original: "https://www.wykop.pl/wpis/27211255/dasz-wiare-odc-25-jezus-byl-czarny-czyli-kimbangis/"
 author: "Luvencedus"
 titleTab: "Odcinek 25"
+tag: "afryka, chrzescijanstwo"
 ---
 
 W XIX wieku Kongo było prywatną własnością króla Belgów. Biali kolonizatorzy zanieśli w głąb Afryki swoją administrację, swoje okrucieństwo, swoje prawa i swój wyzysk. A także swoją religię. Dla Kongijczyków wszystko co złe, miało twarz białego oprawcy, ale Bóg nie był zły. Czy w takim razie był biały?

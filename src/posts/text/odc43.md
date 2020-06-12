@@ -6,7 +6,7 @@ original: "https://www.wykop.pl/wpis/43533307/dasz-wiare-odc-42-w-ktorym-bardzo-
 author: "Andrzej"
 titleTab: "Odcinek 43"
 sources: "Crummey, ''Eastern Orthodoxy in Russia and Ukraine in the age of the Counter-Reformation'', w: ''The Cambridge History of Christianity. Vol. 5, Eastern Christianity'', 2006   Dixon, ''The Russian Orthodox Church in imperial Russia 1721–1917'', w: ''The Cambridge History of Christianity. Vol. 5, Eastern Christianity'', 2006"
-
+tag: "chrzescijanstwo, prawoslawie"
 ---
 
 Współcześnie, wśród internetowych “specjalistów”, dominuje pogląd mówiący o tym, że religia była tylko/ przede wszystkim narzędziem kryptoateistycznych elit do kontroli mas. Nie jest to chyba prawda w przypadku Aleksego Romanowa. Car panujący od 1645 roku, wsławił się dwoma rzeczami- odebraniem Polsce wielu ziem ruskich i żarliwą pobożnością. Uważał on, że jest odpowiedzialny za zbawienie swoich poddanych. Na przykład w 1651 roku wymusił delegalizację odprawiania skróconych liturgii*. Car promował ponadto reformy cerkiewne i chciał zwiększyć rygoru moralny wśród kleru i wiernych. Jego sojusznikiem był patriarcha Nikon, który prowadził zakrojone na szeroką skalę reformy mające wzmocnić cerkiew jako instytucję. Posunięcia Krzewicieli Pobożności (tak nazywano cara i jego obóz) wywoływały często opór ze strony zarówno laikatu jak i duchowieństwa. Napięcie rosło, ale otwarty konflikt wybuchł z całą mocą gdy wprowadzono reformy liturgiczne.

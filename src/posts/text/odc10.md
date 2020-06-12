@@ -5,6 +5,7 @@ date: "2016-07-29"
 original: "https://www.wykop.pl/wpis/18887529/dasz-wiare-odc-10-boski-kosmiczny-seks-czyli-mormo/"
 author: "Luvencedus"
 titleTab: "Odcinek 10"
+tag: "chrzescijanstwo, noweRuchyReligijne, ameryki"
 ---
 
 Mormoni w powszechnej opinii uchodzą ze lepiej ubraną wersję Świadków Jehowy, krążąc po domach i pytając o chwilę na rozmowę o Jezusie Chrystusie. Te pytania i otoczka mormonizmu, którą widać na pierwszy rzut oka sprawia, że można ich pomylić z jedną z wielu denominacji protestanckich. Nic bardziej mylnego, mormońska teologia skłania sporą część religioznawców do twierdzenia, że daleko im do chrześcijaństwa czy monoteizmu w ogóle.

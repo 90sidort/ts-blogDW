@@ -5,6 +5,7 @@ date: "2016-09-01"
 original: "https://www.wykop.pl/wpis/19425885/dasz-wiare-odc-13-muzulmanin-tanczy-czyli-sufizm-i/"
 author: "Luvencedus"
 titleTab: "Odcinek 13"
+tag: "islam, ludowe"
 ---
 
 Islam, jak każda religia, nie obył się bez mistyki. O ile w chrześcijaństwie (a także w buddyzmie) mistyka rozwijała się głównie w klasztorach pośród duchownych, o tyle w islamie ze względu na brak jako takich kapłanów było to niemożliwe. Jednak wśród muzułmanów szybko wyłoniły się postacie o szczególnie bogatym życiu duchowym, a wokół nich zaczęli gromadzić się uczniowie. Cały ten proces był początkiem powstania mistyki islamskiej, określanej mianem sufizmu.

@@ -6,7 +6,7 @@ original: "https://www.wykop.pl/wpis/43533307/dasz-wiare-odc-42-w-ktorym-bardzo-
 author: "Andrzej"
 titleTab: "Odcinek 42"
 sources: "Jennifer Kolpacoff Deane, ''Spiritual Franciscans, the Poverty Controversy, and the Apocalypse'' w: ''A History of Medieval Heresy and Inquisition''"
-
+tag: "chrzescijanstwo, katolicyzm, europa"
 ---
 
 Przemiany społeczne w okresie pełnego średniowiecza (XI - XIII wiek) dotknęły także życia religijnego. Jednym z przejawów był wzrost zainteresowania religią ze strony laikatu. W efekcie wzrosła religijna świadomość i zaangażowanie wiernych, ale z drugiej strony część ludzi, poznając katolickie nauczanie, uświadamiała sobie, że się z nim nie zgadza. Herezje szerzyły się jak pożar w suchym lesie. Ponadto wielu katolików uważało, że istnieje różnica między kościelną teorią a praktyką. Rozczarowani starali się sytuację poprawić na własną rękę. To często kończyło się procesami, przymusową reedukacją a czasem nawet śmiercią. Ówczesny kościół uważał, że zbawienie jest możliwe tylko w jego ramach. Każdy kto wyznawał inne poglądy był z automatu poza kościołem, co miało jakoby uniemożliwiać zbawienie. W tym świetle próby nauczania podjęte przez osoby “niewykwalifikowane” i “nieuprawnione” były ryzykowne i mogło prowadzić nawet do wiecznego potępienia.

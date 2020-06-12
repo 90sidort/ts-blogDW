@@ -5,7 +5,7 @@ date: "2018-04-24"
 original: "https://www.wykop.pl/wpis/31513417/dasz-wiare-odc-28-jezus-kontra-bog-inkow-czyli-mit/"
 author: "Luvencedus"
 titleTab: "Odcinek 28"
-
+tag: "chrzescijanstwo, ameryki, ludowe, poganstwo"
 ---
 
 Gdy w roku 1532 garstka Hiszpanów podbiła imperium Inków, obejmowało ono obszar Andów: Ekwador, Peru, Boliwię, północno-zachodnią Argentynę oraz północne Chile, a na wszystkich tych terenach panował kult Wirakoczy (stwórcy), Inti (słońca) i Paczamamy (Matki Ziemi). Kres religii Inków przyniósł Pizarro i jego konkwistadorzy, razem z ogniem, śmiercią i chrześcijaństwem. Ale część inkaskich wierzeń przetrwała do dzisiaj, między innymi w osobliwym synkretycznym micie o Inkarrim.

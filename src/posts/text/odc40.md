@@ -6,7 +6,7 @@ original: "https://www.wykop.pl/wpis/42977829/dasz-wiare-odc-40-w-ktorym-uwazamy
 author: "Andrzej"
 titleTab: "Odcinek 40"
 sources: "John Fine Van Anwterp, ''The Bosnian Church Council of 1203'', ''Religion and Culture inside Bosnia'' w: ''The Late medieval Balkans''   Noel Malcolm, ''Kościół bośniacki'' w: Krasnogruda, nr VII"
-
+tag: "chrzescijanstwo, katolicyzm, prawoslawie"
 ---
 
 Jednym z najbardziej tajemniczych zjawisk w europejskiej historii chrześcijaństwa jest tak zwany kościół bośniacki. Jest to efekt tego, że losom średniowiecznej Bośni nikt nie poświęcał wiele uwagi. Nie jest pewne czym był i czego nauczał rzeczony kościół. Autorem współczesnego zamieszania wokół niego był Chorwat Racki. Wziął on za dobrą monetę oskarżenia katolickich pisarzy historycznych i sklasyfikował wyznanie jako lokalną wariację chrześcijańskiego dualizmu (w dużym skrócie- zło jest niemal tak potężne jak dobro a materialny świat to dzieło szatana i więzienie dla niematerialnych dusz z którego muszą się uwolnić) oraz powiązał je z bogomiłami (dualistyczna herezja z Bułgarii). Pogląd ten zdobył duże uznanie wśród historyków- w wielu pracach w których jest wzmiankowany (pod nazwą “patareni”) określa się go mianem manichejskiego lub bogomilskiego. Co ciekawe teorie Rackiego zostały entuzjastycznie przyjęte przez bośniackich muzułmanów, którzy tłumaczyli w ten sposób konwersję Bośni na islam- że niby nigdy byli katolikami ani prawosławnymi, a ich odmienność od sąsiadów jest starsza niż osmańskie podboje.

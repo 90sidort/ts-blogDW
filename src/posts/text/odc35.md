@@ -6,7 +6,7 @@ original: "https://www.wykop.pl/wpis/40294551/dasz-wiare-odc-35-w-ktorym-odwiedz
 author: "Andrzej"
 titleTab: "Odcinek 35"
 sources: "Russel Gerard, ''Kalasha'' w ''Heirs to Forgotten Kingdoms: Journeys Into the Disappearing Religions of the Middle East''"
-
+tag: "islam, azja, ludowe, poganstwo, hinduizm"
 ---
 
 Jest rok 2018 od narodzin Chrystusa. Cały Pakistan został opanowany przez wyznawców religii Proroka… Cały? Nie! Jeden, jedyny Hindukusz, zamieszkany przez nieugiętych Kalaszy wciąż zachowuje swoją starożytną wiarę i odrębność od muzułmańskiej większości zamieszkującej resztę kraju, na czele z miastami takimi jak Karachi czy Islamabad. Ta parafraza wstępu do komiksowych historii o Asteriksie i Obeliksie jest w tym wypadku bardzo zasadna. W przeciwieństwie jednak do Galów, którzy koniec końców ulegli najeźdźcom znad Tybru, Kalasze przetrwali do dzisiaj, choć są cieniem tego, jak sprawy miały się w przeszłości.

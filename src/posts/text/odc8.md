@@ -5,6 +5,7 @@ date: "2016-07-01"
 original: "https://www.wykop.pl/wpis/18451555/dasz-wiare-odc-8-czas-snu-czyli-mitologia-aborygen/"
 author: "Luvencedus"
 titleTab: "Odcinek 8"
+tag: "ludowe, poganstwo"
 ---
 
 Ślady osadnictwa rdzennych mieszkańców Australii sięgają 40 tysięcy lat wstecz (na ten okres datowane są najstarsze znaleziska). Od tamtego czasu ich kultura rozwijała się aż do przybycia pierwszych osadników w XVIII wieku. Plemiona Aborygenów stworzyły około 260 języków, z czego do dzisiaj zachowało się 50 (90% z nich jest zagrożone wymarciem). Utworzyli także bardzo złożoną mitologię, która definiowała całe życie tych ludzi.

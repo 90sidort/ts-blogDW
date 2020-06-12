@@ -6,7 +6,7 @@ original: "https://www.wykop.pl/wpis/45085067/dasz-wiare-odc-48-w-ktorym-nawraca
 author: "Andrzej"
 titleTab: "Odcinek 48"
 sources: "Erickson, ''Entrepreneurs and Missionaries'' w: ''Orthodox Christians in America''   https://www.oca.org/history-archives/orthodox-christians-na/chapter-1||Orthodox Church in America: The Alaskan Mission (1794-1870)"
-
+tag: "chrzescijanstwo, ameryki, prawoslawie"
 ---
 
 Misje chrystianizacyjne prowadzone w europejskich koloniach są tematem kontrowersyjnym. Z jednej strony kościoły lubią mówić jak to niosły Słowo Boże i jak przybliżały ludzi do Jezusa (cokolwiek to znaczy). Z drugiej historycy jak i sami zainteresowani (albo raczej- to co z nich zostało) zwracają uwagę na często nie do końca humanitarne metody jak i fakt, że ewangelizacja była produktem kolonialnego systemu, który nie zapisał zbyt pięknych kart w dziejach rdzennych społeczności. W niektórych przypadkach zakończył te dzieje na dobre. Oczywiście sprawa nie jest jednowymiarowa- wielu misjonarzy dostrzegało niesprawiedliwości kolonializmu a w religii widziało program nie tylko duchowy, ale i społeczny, którego realizacja położyła by kres uciskowi. Były także misje, które działały na terenach nie objętych bezpośrednią władzą mocarstw kolonialnych albo wręcz od nich niezależnych. Jedną z ciekawszych (i mniej znanych) misji chrześcijańskich w Nowym Świecie była działalność prawosławna na Alasce.

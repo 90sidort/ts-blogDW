@@ -5,6 +5,7 @@ date: "2017-02-16"
 original: "https://www.wykop.pl/wpis/22316339/dasz-wiare-odc-14-sensei-jezus-czyli-ukryci-chrzes/"
 author: "Luvencedus"
 titleTab: "Odcinek 14"
+tag: "chrzescijanstwo, ludowe, azja"
 ---
 
 Kiedy w roku 1638 wszyscy Europejczycy, w tym katoliccy misjonarze, zostali wygnani z Japonii, władze kościelne w Rzymie sądziły, że to koniec katolicyzmu na tych odległych wyspach. Prozelityzm został zakazany, co gorliwsi chrześcijanie zostali zamordowani i rozpoczęły się lata prześladowań. Część katolików japońskich nie wyrzekła się swojej wiary, ale jednocześnie nie przyzwała się do niej zbyt głośno. Zeszli do podziemi i odcięci od zewnętrznego świata rozpoczęli próbę przechowywania religii katolickiej w Japonii.
