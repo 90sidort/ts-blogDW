@@ -34,7 +34,7 @@ const TagsPage = (props) => {
                         if ((edge.node.frontmatter.tag).includes(props.pageContext.slug)) {
                             return (
                                 <li className={blogStyles.post}>
-                                    <Link to={`/blog/${edge.node.fields.slug}`} className={blogStyles.backMain}>
+                                    <Link to={`/blog/${edge.node.fields.slug}`} className={blogStyles.wykopLink}>
                                         <h2>{edge.node.frontmatter.title}</h2>
                                         <h4>{edge.node.frontmatter.subtitle}</h4>
                                     </Link>
