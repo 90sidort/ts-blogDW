@@ -6,7 +6,7 @@ original: "https://www.wykop.pl/wpis/45063435/dasz-wiare-odc-47-w-ktorym-przymus
 author: "Andrzej"
 titleTab: "Odcinek 47"
 sources: "L.P.Harvey, ''Muslims in Spain: 1500- 1614''"
-
+tag: "chrzescijanstwo, europa, katolicyzm, islam"
 ---
 
 Al-Andalus zajmuje ważne miejsce w dziejach Europy. Wielu historyków uważa, że było to miejsce spotkań i wymiany kulturowej, a tłumaczenia dzieł z arabskiego na łacinę przyczyniły się do odświeżenia spuścizny antyku na Zachodzie. Islam pojawił się w Iberii w wyniku podbojów w VIII wieku. Pod kontrolą chrześcijan pozostały jedynie odludne ziemie na północy. Przez wieki muzułmanie w Iberii górowali nad chrześcijańskimi sąsiadami pod każdym względem- kulturowym, ekonomicznym i politycznym. Kolejne fale konwersji, emigracje Mozarabów (andaluzyjskich chrześcijan) oraz imigracje Arabów i Berberów sprawiły, że około X wieku islam zdominował Andaluzję. Z czasem jednak iberyjscy chrześcijanie zaczęli ekspansję na południe. Pod koniec XV wieku padło ostatnie islamskie państwo półwyspu- emirat Granady. Rekonkwista dobiegła końca. Nie był to jednak koniec islamu na półwyspie Iberyjskim.

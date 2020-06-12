@@ -5,7 +5,7 @@ date: "2018-07-07"
 original: "https://www.wykop.pl/wpis/33454603/dasz-wiare-odc-33-w-ktorym-czekamy-na-nadejscie-bu/"
 author: "Andrzej"
 titleTab: "Odcinek 33"
-
+tag: "buddyzm, azja"
 ---
 
 Każdemu kto przeczytał tytuł rodzi się zapewne pytanie w stylu “Zaraz, zaraz. Jak to czekamy? Przecież Budda odwiedził już ten padół łez?! Na co mamy czekać?”. Partially true, jakby to powiedzieli Anglosasi. Tak się jednak składa, że większość buddyjskich tradycji/szkół/nurtów wyznaje pogląd, że Siddhartha Gautama nie był ani pierwszym, ani ostatnim buddą. Przekonanie to, jak i temat dzisiejszego odcinka, jest związane z wierzeniami, które mówią o istnieniu tak zwanych kalp. Termin ten zaś jest często gęsto używany w buddyjskiej i hinduistycznej kosmologii, a korzeniami sięga (prawdopodobnie) wedyjskich tradycji. W dużym skrócie - oznacza baaaaardzo duży odcinek czasu (interpretacje się różnią).

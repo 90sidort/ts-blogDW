@@ -6,7 +6,7 @@ original: "https://www.wykop.pl/wpis/42727387/dasz-wiare-odc-38-w-ktorym-nawraca
 author: "Andrzej"
 titleTab: "Odcinek 38"
 sources: "https://en.wikipedia.org/wiki/Taiping_Rebellion||Wikipedia: Taiping Rebellion   https://en.wikipedia.org/wiki/Hong_Xiuquan||Wikipedia: Hong Xiuquan   https://en.wikipedia.org/wiki/Taiping_Heavenly_Kingdom||Wikipedia: Taiping Heavenly Kingdom   https://en.wikipedia.org/wiki/God_Worshipping_Society||Wikipedia:God Worshipping Society"
-
+tag: "chrzescijanstwo, azja"
 ---
 
 Życie w XIX wiecznych Chinach to nie był bukiecik fiołków. Chińska potęga zaczynała się kruszyć. Krajem wstrząsały wojny domowe i powstania. Na przykład w 1804 roku zakończyło się powstanie Białego Lotosu, które pochłonęło ponad 100k ofiar. W 1806 roku rządzącej dynastii udało się pokonać powstańców Miao. Spokój nie trwał długo, bo już w 1813 roku wybuchła tak rebelia Ośmiu Trygramów. Na domiar złego rosły siły zamorskich imperiów, które coraz mocniej naciskały na Państwo Środka domagając się pełnego otwarcia na wymianę handlową. Chiny miały w zasadzie autarkiczną gospodarkę, ale Zachód ostrzył sobie zęby na tamtejsze wyroby. Handel polegał głównie na tym, że Europejczycy wymieniali srebro na chińskie produkty. Rządy europejskie były zaniepokojone niekorzystnym bilansem handlowym. Szacuje się, że od połowy XVII do XIX wieku Europejczycy “stracili” w ten sposób około 30 milionów kilogramów srebra. Był to coraz większy problem, bo europejska gospodarka w XIX wieku potrzebowała dużych ilości kruszców. Rządy europejskie żądały otwarcia Chin i kupowania produktów europejskich. Chińczycy jednak puszczali europejskie obiekcje mimo uszu.

@@ -5,7 +5,7 @@ date: "2016-06-24"
 original: "https://www.wykop.pl/wpis/18308307/dasz-wiare-odc-7-tybet-przed-buddyzmem-czyli-bon-t/"
 author: "Luvencedus"
 titleTab: "Odcinek 7"
-tag: "buddyzm,ludowe,poganstwo,azja"
+tag: "buddyzm, ludowe, poganstwo, azja"
 ---
 
 Tybet przeciętnemu Europejczykowi kojarzy się automatycznie z Dalajlamą, klasztorami i buddyzmem. Jednak zanim w VIII w. n. e. nauki Buddy dotarły na Wyżynę Tybetańską, rozkwitała tam osobliwa religia szamańsko-animistyczna: bön (pełna nazwa to Jungdrung Bön). Jest ona na tyle silnie zakorzeniona w kulturze Tybetańczyków, że tamtejsza odmiana buddyzmu wchłonęła z niej wiele elementów, tworząc całkiem nową religię.

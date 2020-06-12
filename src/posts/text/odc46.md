@@ -6,7 +6,7 @@ original: "https://www.wykop.pl/wpis/44935365/dasz-wiare-odc-46-w-ktorym-ruszamy
 author: "Andrzej"
 titleTab: "Odcinek 46"
 sources: "Foltz Richard, ''Buddhism and the Silk Road'' w: ''Religions of the Silk Road''   Halkias, ''When the Greeks Converted the Buddha: Asymmetrical Transfers of Knowledge in Indo-Greek Cultures''"
-
+tag: "buddyzm, indie"
 ---
 
 Jedną z wielu rzeczy którą wsławili się talibowie (obok pokonania ZSRR, brania amerykańskich pieniędzy i goszczenia bin Ladena) było zniszczenie liczących sobie niemal 1,5k lat posągów Buddy w afgańskim Bamian. Stało się to w 2001 roku czyli wtedy, kiedy autor tego wpisu miał wątpliwą przyjemność uczęszczać do podstawówki. Jako ciekawy świata dzieciak kojarzyłem Afganistan z islamem więc zdziwiłem się bardzo słysząc o wielgachnych posągach Buddy właśnie w tej lokalizacji. Przecież buddyzm to religia rodem z Indii i charakterystyczna raczej dla Dalekiego Wschodu, prawda? Nie znałem wówczas jeszcze angielskiego na poziomie umożliwiającym swobodne czytanie toteż odpowiedź na pytanie: “ale skąd one się tam w ogóle wzięły?” znalazłem dopiero parę ładnych lat później.

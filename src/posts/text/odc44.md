@@ -6,7 +6,7 @@ original: "https://www.wykop.pl/wpis/44574775/dasz-wiare-odc-44-w-ktorym-szukamy
 author: "Andrzej"
 titleTab: "Odcinek 44"
 sources: "Jennifer Kolpacoff Deane, ''Good Christians, Heresy, and the Apostolic Model'' w: ''A History of Medieval Heresy and Inquisition''   Freeman Charles, ''Open Borders'', w: ''A New History of Early Christianity''"
-
+tag: "chrzescijanstwo, dualizm"
 ---
 
 Zapewne każdy w miarę myślący człowiek zadawał sobie kiedyś pytanie- dlaczego na świecie dzieje się tyle zła? Pytanie to jest jeszcze bardziej zasadne w kontekście chrześcijaństwa. Religia ta postuluje bowiem istnienie nieskończenie dobrego (a przy tym wszechmocnego) Boga. Skoro Wszechmogący jest Dobrem Wcielonym, a wszystko co istnieje jest jego dziełem, to skąd zło? Po co nieskończenie dobry Bóg miałby stwarzać zło? I jak to w ogóle możliwe, że je stworzył skoro jest dobry? W teologii chrześcijańskiej istnieje cała gałąź próbująca jakoś pogodzić postulat wszechmogącego, dobrego Boga z istnieniem zła i cierpienia (zowie się to to teodycea). Próby rozwiązania puzzla są różne. I tak na przykład niektórzy teolodzy twierdzą, że zło nie jest wcale dziełem Boga. Jest ono konsekwencją odrzucenia bożej łaski przez człowieka. Czyli zło to tak naprawdę nieobecność bożej łaski spowodowana odmową człowieka. Bóg kierowany szacunkiem do człowieka i jego woli honoruje zaś te decyzje i nie narzuca się- nawet jeśli w konsekwencji prowadzi to do czegoś strasznego (tak, ta cringe’owa anegdotka o studencie i profesorze ma swoje korzenie właśnie tutaj).

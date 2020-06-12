@@ -5,7 +5,7 @@ date: "2019-07-06"
 original: "https://www.wykop.pl/wpis/42464925/dasz-wiare-odc-37-w-ktorym-udajemy-ze-druga-najwie/"
 author: "Andrzej"
 titleTab: "Odcinek 37"
-
+tag: "islam, bliskiwschod, ludowe"
 ---
 
 Przeciętny Polak posiada śladową wiedzę o islamie. W sumie islam nie jest jakimś wyjątkiem, bo przeciętny człowiek generalnie wie bardzo mało na tematy związane z religią (nawet, teoretycznie, własną). Nie chodzi tu o wywyższanie się a raczej o fakt (autor też jest przeciętny, ot coś tam słyszał). Przed amerykańską “War on Terror” islam kojarzył się głównie jako religia Turków- sprzedawców skór, kebabów oraz podrabianych fajek i dżinsów. Po pamiętnym 11 września, wojnie afgańskiej, działalności ISIS i medialnych doniesieniach o poczynaniach muzułmańskich imigrantów (bądź ich potomków) w krajach Europy Zachodniej, islam kojarzy się przeciętnemu obywatelowi kraju nad Wisłą raczej negatywnie. Myślę, że stwierdzenie to nie jest jakoś bardzo odważne. Wystarczy mieć odrobinę pecha i wejść w jakieś znalezisko “Inżynierowie coś tam” na głównej stronie serwisu Wypok peeel żeby przekonać się o jego prawdziwości.

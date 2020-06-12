@@ -6,7 +6,7 @@ original: "https://www.wykop.pl/wpis/42831455/dasz-wiare-odc-39-w-ktorym-wyrzeka
 author: "Andrzej"
 titleTab: "Odcinek 39"
 sources: "https://www.newadvent.org/cathen/15527b.htm||Catholic Encyclopedia: Waldenses   http://www.waldensian.info/History.htm||Waldensian.info: History   https://en.wikipedia.org/wiki/Waldensians||Wikipedia: Waldensians   https://en.wikipedia.org/wiki/Piedmontese_Easter||Wikipedia: Piedmontese Easter"
-
+tag: "chrzescijanstwo, katolicyzm, europa, protestantyzm"
 ---
 
 [Tekst na blogu został zmieniony ponieważ zbierając informacje do odcinka bazowałem na starszych opracowaniach, w których Waldensom przypisywano brak wiary w katolickie doktryny od samego początku, co zdaniem współczesnych badaczy nie jest prawdą.]
