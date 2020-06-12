@@ -36,7 +36,7 @@ const BlogPage = () => {
                     const tagsArr = []
                     const tags = (edge.node.frontmatter.tag).split(',')
                     tags.forEach((singleTag) => {
-                        tagsArr.push(`#${singleTag.trim()} `)
+                        tagsArr.push(`#${singleTag.trim()}   `)
                     })
                     return (
                         <li className={blogStyles.post} key={edge.node.frontmatter.titleTab}>
