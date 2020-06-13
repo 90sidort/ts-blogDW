@@ -24,13 +24,13 @@ query ( $slug: String!) {
   }
 `
 
-// const Blog = (props) => {
-//   const notesArr = []
-//   if (props.data.markdownRemark.frontmatter.notes !== null) {
-//     props.data.markdownRemark.frontmatter.notes.split('   ').forEach((singleNote) => {
-//       notesArr.push(singleNote)
-//     })
-//   }
+const Blog = (props) => {
+  // const notesArr = []
+  // if (props.data.markdownRemark.frontmatter.notes !== null) {
+  //   props.data.markdownRemark.frontmatter.notes.split('   ').forEach((singleNote) => {
+  //     notesArr.push(singleNote)
+  //   })
+  // }
 
     return (
         <Layout>
