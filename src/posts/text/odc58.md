@@ -1,6 +1,6 @@
 ---
 title: "Dasz wiarę? Odcinek 58,"
-subtitle: "w którym zamieniamy prostytuki w mniszki i torujemy drogę religijnej rewolucji w Europie."
+subtitle: "w którym zamieniamy prostytutki w mniszki i torujemy drogę religijnej rewolucji w Europie."
 date: "2020-04-06"
 original: "https://www.wykop.pl/wpis/48552893/dasz-wiare-odc-58-w-ktorym-zamieniamy-prostytuki-w/"
 author: "Andrzej"
