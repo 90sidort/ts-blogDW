@@ -24,13 +24,13 @@ query ( $slug: String!) {
   }
 `
 
-const Blog = (props) => {
-  const notesArr = []
-  if (props.data.markdownRemark.frontmatter.notes !== null) {
-    props.data.markdownRemark.frontmatter.notes.split('   ').forEach((singleNote) => {
-      notesArr.push(singleNote)
-    })
-  }
+// const Blog = (props) => {
+//   const notesArr = []
+//   if (props.data.markdownRemark.frontmatter.notes !== null) {
+//     props.data.markdownRemark.frontmatter.notes.split('   ').forEach((singleNote) => {
+//       notesArr.push(singleNote)
+//     })
+//   }
 
     return (
         <Layout>
@@ -48,7 +48,7 @@ const Blog = (props) => {
             {props.data.markdownRemark.frontmatter.sources !== null && 
               <Sources sources={props.data.markdownRemark.frontmatter.sources}/>
             }
-            <p className={blogStyles.notesP}>
+            {/* <p className={blogStyles.notesP}>
             {notesArr.map((note, id) => {
               return (
                   <p>
@@ -57,7 +57,7 @@ const Blog = (props) => {
               )
             }) 
             }
-            </p>
+            </p> */}
         </Layout>
     )
 }
