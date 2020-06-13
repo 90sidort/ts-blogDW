@@ -7,6 +7,7 @@ author: "Andrzej"
 titleTab: "Odcinek 59"
 sources: "''Why Pyrrhonism is not skepticism'', Kuzminski Adrian, w: ''Pyrrhonism: How the Ancient Greeks Reinvented Buddhism''   ''Pyrrhonism and Buddhism'', Kuzminski Adrian, w: ''Pyrrhonism: How the Ancient Greeks Reinvented Buddhism''   ''BEYOND HUMANITY'', CHRISTOPHER I. BECKWITH, w: ''GREEK BUDDHA''"
 tag: "europa, indie, buddyzm"
+notes: "magowie to po prostu mazdaistyczni kapłani. Gimnosofiści to dosłownie nadzy mędrcy- tak Grecy nazwali indyjskich ascetów i wędrownych nauczycieli"
 ---
 
 Dzisiaj zacznę nietypowo- od inspiracji do powstania tekstu. Mianowicie- rozmawiałem sobie z colegą na temat stoicyzmu i buddyzmu. Colega stwierdził, że przez “obcość” buddyzmu człowiek Zachodu będzie miał problem z jego zrozumieniem i powinien wybrać stoicyzm. Buddyzm wszak wyłonił się ze starożytnej śramany i rozwijał na Dalekim Wschodzie. Współcześni, zachodni buddyści posługują się często terminologią ukształtowaną w Azji. Ponadto- patrzy się na nich nieufnie i często podnoszona jest krytyka, że “to nieprawdziwy buddyzm”. No cóż, chyba faktycznie jest to inherentnie obca tradycja, a my możemy się rozejść...

@@ -7,6 +7,7 @@ author: "Andrzej"
 titleTab: "Odcinek 55"
 sources: "Doyle Tara N., ''Liberate the Mahabodhi Temple!'' w: ''Buddhism in the Modern World''   hasło ''Ambedkar'' w: Buswell, ''Encyclopedia of Buddhism''   https://www.forwardpress.in/2017/08/the-epistemological-bases-of-ambedkars-navayana/||The epistemological bases of Ambedkar’s Navayana"
 tag: "indie, buddyzm, hinduizm, noweRuchyReligijne"
+notes: "zbiór zaleceń dla osób nieoświeconych, które pozwolą im uniknąć negatywnej karmy."
 ---
 
 Wielu ludziom buddyzm kojarzy się przede wszystkim ze skupieniem na życiu wewnętrznym. W powszechnej opinii jest to religia polegająca przede wszystkim na samodoskonaleniu się za pomocą praktyk medytacyjnych uzupełnianych nauczaniem moralnym. Oczywiście co jakiś czas docierają do nas informacje o mnichach wywierających wpływ na rządy w swoich krajach, prowadzących agitację na rzecz jakiejś partii czy liderach politycznych powołujących się na buddyzm w swoich działaniach. Jest to często przedstawiane jako działalność poboczna, niekoniecznie zła, ale jednak odbiegająca od wzorca. Z opinią taką na pewno nie zgodziłby się Bhimrao Ramji Ambedkar dla którego zaangażowanie w sprawy polityczne i społeczne było rdzeniem i motywem przewodnim buddyzmu.

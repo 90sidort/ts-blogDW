@@ -7,6 +7,10 @@ author: "Andrzej"
 titleTab: "Odcinek 54"
 sources: "Johnson, Barbara C., ''The Kochin Jews of Kerala'', w: ''The Jews of India: A Story of Three Communities''   Katz Nathan, ''Balanced Identity. Jews of Kochin'', w: ''Who are the Jews of India''"
 tag: "indie, judaizm"
+notes: "Abstrahując od prawdziwości historii mówiącej o misyjnej posłudze Tomasza w Indiach, generalnie przyjmuje się, że pierwsi misjonarze:
+-podróżowali szlakami handlowymi (bo jako uczęszczane drogi były one bezpieczniejsze)
+-często mieli kontakty z kupcami (a nawet sami nimi byli)
+-odwiedzali miasta ze wspólnotami żydowskimi (bo większość zwolenników Jezusa na samiutkim początku była przecież Żydami)"
 ---
 
 Kerala, stan leżący na malabarskim wybrzeżu Indii, od starożytności przyciągał ludzi z całego świata. Był on swoistym centrum handlowym subkontynentu z Bliskim Wschodem, Europą oraz północną i wschodnią Afryką. Jednym z bogactw Kerali były pożądane przez wszystkich przyprawy, takie jak pieprz, cynamon, kardamon i imbir. Kupcy robili tutaj fortuny- nie dziwi więc fakt, że wielu z nich podejmowało decyzję o osiedleniu się na stałe. Przywozili oni ze sobą całe dobrodziejstwo inwentarza- zwyczaje, języki, tradycje i religie. Przez wieki, wśród osiadających kupców byli Grecy, Rzymianie, Persowie, Syryjczycy, Arabowie i, oczywiście, Żydzi. Keralska wspólnota jest powszechnie uważana za najbardziej starożytną grupę żydowską w Indiach.

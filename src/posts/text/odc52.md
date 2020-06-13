@@ -7,6 +7,7 @@ author: "Andrzej"
 titleTab: "Odcinek 52"
 sources: "http://www.iranicaonline.org/articles/bahaism-index||Encyclopedia Iranica: Bahaism   https://bahaiteachings.org/bahai-faith#||BahaiTeachings.org: Bahai Faith"
 tag: "iran, zoroastryzm, chrzescijanstwo, islam, hinduizm, buddyzm, noweRuchyReligijne"
+notes: "rząd Islamskiej Republiki uznał małżeństwa wyznaniowe bahaitów za niebyłe. W szyickiej rzeczywistości prawnej oznaczało to, że kobiety bahaickie uprawiały nierząd- bo mieszkały, współżyły i miały dzieci z mężczyznami, którzy nie byli im poślubieni."
 ---
 
 Argument ten idzie on mniej więcej tak, że abrahamiczny Bóg raczej nie istnieje gdyż ludzkość ma wiele różnych, sprzecznych idei religijnych. Gdyby istniała nieskończenie dobra, wszechmocna, osobowa siła wyższa, która od naszych poglądów na jej istnienie/charakterystykę uzależniała by swoją relację z nami, to nie pozwoliłaby na tak olbrzymie zróżnicowanie. Konkluzja jest taka, że religie abrahamiczne (czy, czasami, religie w ogóle) są wymyślone, a różnice wynikają z kontekstu kulturowego i historycznego. Z tym poglądem na pewno nie zgodziliby się bahaici. Ich zdaniem wielość religii i interpretacji jest jak najbardziej naturalna i zrozumiała gdyż Bóg objawiał się różnym ludziom, pod różnymi postaciami i z przekazem dostosowanym do poziomu rozwoju ludzkości w danej epoce/ kulturze.

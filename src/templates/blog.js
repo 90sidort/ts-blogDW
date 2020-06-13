@@ -17,6 +17,7 @@ query ( $slug: String!) {
         author
         titleTab
         sources
+        notes
       }
       html
     }
@@ -24,6 +25,13 @@ query ( $slug: String!) {
 `
 
 const Blog = (props) => {
+  const notesArr = []
+  if (props.data.markdownRemark.frontmatter.notes !== null) {
+    props.data.markdownRemark.frontmatter.notes.split('   ').forEach((singleNote) => {
+      notesArr.push(singleNote)
+    })
+  }
+
     return (
         <Layout>
             <Head title={props.data.markdownRemark.frontmatter.titleTab}/>
@@ -40,6 +48,16 @@ const Blog = (props) => {
             {props.data.markdownRemark.frontmatter.sources !== null && 
               <Sources sources={props.data.markdownRemark.frontmatter.sources}/>
             }
+            <p className={blogStyles.notesP}>
+            {notesArr.map((note, id) => {
+              return (
+                  <p>
+                    <small>{'*'.repeat(id+1)}{note}</small>
+                  </p>
+              )
+            }) 
+            }
+            </p>
         </Layout>
     )
 }

@@ -7,6 +7,7 @@ author: "Andrzej"
 titleTab: "Odcinek 57"
 sources: "''Wyclif, the Word of God, and Inquisition in England'', w: Jennifer Kolpacoff Dean, ''A History of Medieval Heresy and Inquisition''"
 tag: "europa, katolicyzm, protestantyzm, chrzescijanstwo"
+notes: "dzisiaj powiedzielibyśmy ''salon masażu'' lub ''agencja towarzyska''   Bonifacy w bulli Unam Sanctam napisał: ''We declare, we proclaim, we define that it is absolutely necessary for salvation that every human creature be subject to the Roman Pontiff.''"
 ---
 
 Protestantyzm nie ma u nas dobrej prasy. Mimo, że protestanci mieli swego czasu wpływ na nasze dzieje- także religijne. Pierwsze, kompletne tłumaczenie Biblii na polski to sprawka kalwinów. Dystans (lub niechęć) ma kilka przyczyn. Protestantyzm był domeną wyższych klas. Wyznawcami byli głównie magnaci, średnia szlachta i bogate mieszczaństwo. Dla ludu było to coś “nie swojskiego”. Swoje dokładała katolicka propaganda wiążąca protestantyzm z obcymi. Przełomem był “potop” w trakcie którego szlachta kolaborowała ze Szwedami. Wśród kolaborantów nie brakowało katolików, ale fakty nie są przeszkodą by kłamać. Zabór pruski jeszcze wzmocnił to przekonanie. Współcześnie propaganda nowoateistyczna, chcąc ośmieszyć religię, sięga po skrajne przykłady ze swojego protestanckiego podwórka. Anon myśli potem, że wszyscy protestanci to kreacjoniści młodej Ziemi czytający Biblię dosłownie.

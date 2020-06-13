@@ -7,6 +7,7 @@ author: "Andrzej"
 titleTab: "Odcinek 50"
 sources: "Ehrman Bart, ''Divine Humans in Ancient World'' w: ''How Jesus Became God: The Exaltation of a Jewish Preacher from Galilee''   https://www.livius.org/articles/person/apollonius-of-tyana/||Livious.org: Apollonius of Tyana   https://www.youtube.com/watch?v=3iINg1yWHLA&feature=youtu.be||Youtube: More Famous than Jesus: Apollonius of Tyana"
 tag: "europa, bliskiwschod, poganstwo"
+notes: "w historiografii określenie badaczy, którzy całkowicie odrzucają tezy o prawdziwości danych osób/ wydarzeń"
 ---
 
 Dzisiaj opowiem wam o niesamowitej osobistości żyjącej w I wieku n.e. Już przed narodzinami jego matce objawiła się niebiańska istota i zapowiedziała, że dziecko które powije dokona rzeczy wielkich. Same narodziny były cudem a szybko dorastający młodzieniec zwracał uwagę swoją bystrością. W wieku zbliżonym do dorosłości opuścił rodzinny dom i poświęcił się wędrownemu nauczaniu. Szybko zdobył sobie popularność. Przemawiając do tłumów, wzywał ludzi do skupienia się nie na gromadzeniu doczesnych bogactw, ale na sprawach duchowych i moralnym życiu. Nie był jednak zwykłym mędrcem- nie ograniczał się do pouczeń, ale czynił także rozliczne cuda- uzdrawiał chorych, uwalniał nękanych przez złośliwe duchy a nawet wskrzeszał martwych. Obserwujący go ludzie szybko doszli do wniosku, że jest on kimś więcej niż człowiekiem. Niestety- nie wszystkim podobało się jego nauczanie i popularność. Przeciwnikom udało się go w końcu zaskarżyć przed rzymskimi władzami…

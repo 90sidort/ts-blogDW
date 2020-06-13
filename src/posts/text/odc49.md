@@ -7,6 +7,7 @@ author: "Andrzej"
 titleTab: "Odcinek 49"
 sources: "''The China mission in the seventh and eight centuries'' w: Baum Wilhelm, Winkler Dietmar W., ''The Church of the East: A concise history''   ''A Refuge of Heretics: Nestorians and Manichaeans on the Silk Road'' w: Foltz, Richard ''Religions of the Silk Road''"
 tag: "chrzescijanstwo, azja, bliskiwschod, nestorianizm"
+notes: "zabawne bo z racji zawarcia przez część “nestorian” unii z Rzymem na liście dopuszczalnych liturgii katolickich jest jedna stworzona przez Nestoriusza. I to pomimo tego, że został on oficjalnie potępiony przez Sobór Ekumeniczny. Oczywiście wszystko po cichu, tak żeby inni katolicy nie widzieli XD."
 ---
 
 W ostatnim odcinku poruszyłem temat misji i chciałbym przy nim pozostać. Większość znaczących misji w dziejach chrześcijaństwa wyglądała tak, że strona nawracająca miała znaczną przewagę nad nawracanymi. Tak było w przypadku rzymskim a potem europejskim, gdzie to władcy narzucali poddanym wyznanie (choćby u nas) i tak było w przypadkach kolonialnych. Administracja danego imperium albo popierała misje albo wręcz narzucała chrzest. Wiązało się to przede wszystkim z faktem, że kościoły uwielbiały sojusze z tronem. Tron zaś cenił sobie ołtarz z którego co chwila pouczano maluczkich o boskim pochodzeniu władzy. Jest to częsty zarzut krytyków na argument za prawdziwością tej religii (znaczy- że jej rozpowszechnienie nie wynikało za bardzo z jakiejś “prawdziwości”, a raczej z politycznych i społecznych uwarunkowań).

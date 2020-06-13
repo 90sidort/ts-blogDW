@@ -7,6 +7,7 @@ author: "Andrzej"
 titleTab: "Odcinek 58"
 sources: "''Reform, Revolution, and the Lay Chalice in Bohemia'', w: Jennifer Kolpacoff Dean, ''A History of Medieval Heresy and Inquisition''"
 tag: "europa, katolicyzm, protestantyzm, chrzescijanstwo"
+notes: "heretyków praktycznie zawsze zabijało tak zwane ''ramię świeckie'' a kościół ograniczał się do orzeczenia o winie herezji"
 ---
 
 Dnia 6 lipca 1415 roku sobór obradujący w Konstancji wydał wyrok uznający Jana Husa za heretyka i oddał go w ręce władzy świeckiej żeby zrobiła to, czego “Święta Matka Kościół zrobić nie może, a co zrobione być powinno”*. Husa odarto z księżych szat i założono mu na głowę czapkę z napisem “Herezjarcha”, a potem spalono na stosie razem z jego pismami. Według relacji Hus zachował spokój i do końca głosił wiarę w Jezusa. W przeciwieństwie do wielu innych przypadków zabijania za poglądy odrzucane przez kościół, ta egzekucja doprowadziła do rewolucji, która tliła się w granicach Świętego Cesarstwa Rzymskiego. Konflikt ten zmienił zarówno religijny, polityczny jak i społeczny krajobraz Europy.

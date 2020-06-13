@@ -6,6 +6,7 @@ original: "https://www.wykop.pl/wpis/18308307/dasz-wiare-odc-7-tybet-przed-buddy
 author: "Luvencedus"
 titleTab: "Odcinek 7"
 tag: "buddyzm, ludowe, poganstwo, azja"
+notes: "Co ciekawe, rytuał „poskramiania” i zjednywania sobie lokalnych bóstw ma miejsce do dzisiaj przy okazji budowy klasztorów buddyjskich, np. podczas budowy klasztoru i stupy w Grabnikach k.Grodziska Mazowieckiego w 2012r.   Gdyby Budda Siakjamuni zobaczył tybetańską wersję buddyzmu, mógłby się mocno zdenerwować (mocno jak na Buddę). W jego założeniach buddyzm miał być oparty na filozofii, a nie na rytuałach, tak jak to miało miejsce w przypadku hinduistycznych tradycji, z których się wywodził."
 ---
 
 Tybet przeciętnemu Europejczykowi kojarzy się automatycznie z Dalajlamą, klasztorami i buddyzmem. Jednak zanim w VIII w. n. e. nauki Buddy dotarły na Wyżynę Tybetańską, rozkwitała tam osobliwa religia szamańsko-animistyczna: bön (pełna nazwa to Jungdrung Bön). Jest ona na tyle silnie zakorzeniona w kulturze Tybetańczyków, że tamtejsza odmiana buddyzmu wchłonęła z niej wiele elementów, tworząc całkiem nową religię.
@@ -19,7 +20,3 @@ W X-XI w. bön i buddyzm zaczęły na siebie wywierać wpływ i mieszać się na
 Teksty i święte miejsca bön zostały w większości zniszczone po aneksji Tybetu, w czasie Rewolucji Kulturalnej w Chinach. Obecnie po latach dyskryminacji, buddyjscy duchowni przyznają miejsce religii bön w życiu Tybetańczyków i odkrywają w niej korzenie buddyzmu tybetańskiego. Zwierzchnikiem bön jest 89-letni najstarszy nauczyciel tej religii i 33. opat klasztoru Menri (głównego ośrodka bön) - Lungtok Tenpai Nyima. W 1977r. duchowy przywódca Tybetańczyków Dalajlama Tenzin Gjaco zapoznał się z naukami Jungdrung Bön i uznał go za piątą tradycję Tybetu, obok czterech buddyjskich szkół. Członkowie wszystkich pięciu tradycji wchodzą w skład Tybetańskiego Rządu na Uchodźctwie. Nauki bön są popularyzowane na Zachodzie równoległe z buddyzmem, a najprężniejsze ośrodki działają we Francji, w Niemczech, Austrii i w Polsce.
 
 !["Klasztor Nangzhik"](../images/odc7/narshi_klasztor.jpg "Klasztor Nangzhik")
-
-*Co ciekawe, rytuał „poskramiania” i zjednywania sobie lokalnych bóstw ma miejsce do dzisiaj przy okazji budowy klasztorów buddyjskich, np. podczas budowy klasztoru i stupy w Grabnikach k.Grodziska Mazowieckiego w 2012r.
-
-**Gdyby Budda Siakjamuni zobaczył tybetańską wersję buddyzmu, mógłby się mocno zdenerwować (mocno jak na Buddę). W jego założeniach buddyzm miał być oparty na filozofii, a nie na rytuałach, tak jak to miało miejsce w przypadku hinduistycznych tradycji, z których się wywodził.

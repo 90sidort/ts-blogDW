@@ -7,6 +7,7 @@ author: "Andrzej"
 titleTab: "Odcinek 47"
 sources: "L.P.Harvey, ''Muslims in Spain: 1500- 1614''"
 tag: "chrzescijanstwo, europa, katolicyzm, islam"
+notes: "Piękne są słowa króla Manuela gdy zwrócono mu uwagę na nielegalność takiego przedsięwzięcia- ''Nie obchodzą mnie prawa. Ślubowałem, że to uczynię i moje rozkazy mają zostać wykonane''."
 ---
 
 Al-Andalus zajmuje ważne miejsce w dziejach Europy. Wielu historyków uważa, że było to miejsce spotkań i wymiany kulturowej, a tłumaczenia dzieł z arabskiego na łacinę przyczyniły się do odświeżenia spuścizny antyku na Zachodzie. Islam pojawił się w Iberii w wyniku podbojów w VIII wieku. Pod kontrolą chrześcijan pozostały jedynie odludne ziemie na północy. Przez wieki muzułmanie w Iberii górowali nad chrześcijańskimi sąsiadami pod każdym względem- kulturowym, ekonomicznym i politycznym. Kolejne fale konwersji, emigracje Mozarabów (andaluzyjskich chrześcijan) oraz imigracje Arabów i Berberów sprawiły, że około X wieku islam zdominował Andaluzję. Z czasem jednak iberyjscy chrześcijanie zaczęli ekspansję na południe. Pod koniec XV wieku padło ostatnie islamskie państwo półwyspu- emirat Granady. Rekonkwista dobiegła końca. Nie był to jednak koniec islamu na półwyspie Iberyjskim.
@@ -49,5 +50,3 @@ To oraz przywiązanie Morysków do swojej religii i korzeni sprawiły, że zacho
 ![Przybycie Morysków do Oranu](../images/odc47/oran.jpg "Przybycie Morysków do Oranu.")
 
 Ostateczne rozwiązanie kwestii Morysków przyszło w 1609 roku. Król Filip III wydał dekret nakazujący ich wygnanie. Setki tysięcy ludzi musiały opuścić swoje domostwa jeśli chciało przeżyć. W razie odmowy dekret królewski zezwalał na zabicie “rebeliantów” bez sądu. Wyrzucanym nie pozwolono na zabranie ze sobą dobytku i większej ilości pieniędzy. Nie wiedząc kto jest zasymilowany a kto trwa przy islamie i kulturze andaluzyjskiej, zdecydowano się na wyrzucenie wszystkich potomków konwertytów (wśród nich zapewne byli faktyczni katolicy). Niektóre regiony (zwłaszcza okolice Walencji i Granady) mocno się wyludniły i podupadły ekonomicznie. Na opornych lub powracających w późniejszych latach napuszczono inkwizycję. W Iberii pozostały naprawdę nieliczne wspólnoty Morysków i według historyków uległy one totalnej asymilacji do końca XVIII wieku. Wielu wygnanych osiedliło się w Afryce i zasiliło szeregi piratów atakujących hiszpańskie wybrzeża. W późniejszych czasach zasymilowali się z ludnością Maroka, Algierii i Tunezji.
-
-*Piękne są słowa króla Manuela gdy zwrócono mu uwagę na nielegalność takiego przedsięwzięcia- “Nie obchodzą mnie prawa. Ślubowałem, że to uczynię i moje rozkazy mają zostać wykonane".
